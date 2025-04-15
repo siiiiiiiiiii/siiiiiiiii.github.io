@@ -1,47 +1,49 @@
-# 基本設定
-title: "Siu - Personal Website"
-description: "Fintech | Hedge Funds | Quant Research | Blockchain"
-url: ""             # 必須為空
-baseurl: ""         # 必須為空
+# 基本網站設定
+title       : "Siu - Personal Website"
+description : "Fintech | Hedge Funds | Quant Research | Blockchain"
+url         : "https://siiiiiiiiii.github.io"  # ✅ 替換為你的 GitHub Pages 網址
+baseurl     : ""                               # 若為自定義子目錄，請填寫 "/子目錄"，否則保持空
 
-# 主題：使用 GitHub Pages 內建好看的 cayman 主題
-theme: jekyll-theme-cayman
+# 使用 GitHub Pages 官方支援的主題
+theme: minima
 
-# 導覽列（只保留 Home 和 Projects）
+# 頁面導覽列設定（僅保留 Home + Projects）
 nav:
   - title: "Home"
     url: "/"
   - title: "Projects"
     url: /portfolio/
 
-# 作者資訊（會顯示在首頁最上方）
+# 作者資訊（將出現在頁面下方）
 author:
-  name: "Siu"
-  bio: "Fintech enthusiast. Quant + Blockchain + Hedge Funds."
-  location: "Hong Kong"
-  email: "Kingstonsiu20040801@gmail.com"
-  github: "siiiiiiiiii"
+  name     : "Siu"
+  bio      : "Fintech enthusiast. Quant + Blockchain + Hedge Funds."
+  location : "Hong Kong"
+  email    : "Kingstonsiu20040801@gmail.com"
+  github   : "siiiiiiiiii"
 
-# 自訂 Collection 用來顯示 Project
+# 頁面分類（只啟用 portfolio）
 collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
 
-# 預設版型設定
+# 預設頁面佈局（使用 default 並禁用 sidebar）
 defaults:
   - scope:
       path: ""
       type: pages
     values:
       layout: default
+      author_profile: false
   - scope:
       path: ""
       type: portfolio
     values:
       layout: default
+      author_profile: false
 
-# 插件（Pages 支援）
+# 插件（GitHub Pages 支援）
 plugins:
   - jekyll-feed
   - jekyll-sitemap
