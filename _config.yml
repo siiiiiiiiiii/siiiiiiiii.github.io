@@ -1,18 +1,18 @@
-# 基本網站資訊
+# 基本設定
 title: "Siu - Personal Website"
 description: "Fintech | Hedge Funds | Quant Research | Blockchain"
-url: ""               # GitHub Pages 會自動補上正確網址
-baseurl: ""           # 若為 user.github.io 主頁，請務必留空
-theme: minimal-mistakes-jekyll
+url: ""
+baseurl: ""
+theme: minima  # ✅ 官方內建主題，不會報錯
 
-# 導覽列
+# 導覽列（僅 Home + Projects）
 nav:
   - title: "Home"
     url: "/"
   - title: "Projects"
     url: /portfolio/
 
-# 作者資料（會顯示在左側 Sidebar）
+# 作者資訊
 author:
   name: "Siu"
   bio: "Fintech enthusiast. Quant + Blockchain + Hedge Funds."
@@ -20,32 +20,26 @@ author:
   email: "Kingstonsiu20040801@gmail.com"
   github: "siiiiiiiiii"
 
-# 自定義頁面分類（目前只啟用 portfolio）
+# 專案分類
 collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
 
-# 預設頁面樣式
+# 預設頁面設定
 defaults:
   - scope:
       path: ""
       type: pages
     values:
-      layout: single
-      author_profile: true
+      layout: default
   - scope:
       path: ""
       type: portfolio
     values:
-      layout: single
-      author_profile: true
+      layout: default
 
-# Markdown 設定
-markdown: kramdown
-
-# 必要 Jekyll 插件
+# 插件（GitHub Pages 可用）
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jemoji
