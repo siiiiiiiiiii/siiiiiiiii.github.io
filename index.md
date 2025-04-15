@@ -39,9 +39,6 @@ title: "About Me"
       line-height: 1.8;
       margin-bottom: 30px;
     }
-    .content img {
-      display: block;
-    }
   </style>
 </head>
 <body>
@@ -59,10 +56,10 @@ title: "About Me"
     <div class="content">
       <h2>About Me</h2>
       <p>
-       I am a student studying FinTech, and I have a strong interest in hedge funds. Even though my school courses don’t match the real world and I had little support, I chose to push myself. I taught myself and finished many projects on finance and blockchain, such as portfolio management, building trading models, creating DAOs and cryptocurrencies. I did everything by myself and shared my work on GitHub and my personal website. I once managed HKD 320,000 on my own, investing in both the US and China markets with full risk control.
+        I am a student studying FinTech, and I have a strong interest in hedge funds. Even though my school courses don’t match the real world and I had little support, I chose to push myself. I taught myself and finished many projects on finance and blockchain, such as portfolio management, building trading models, creating DAOs and cryptocurrencies. I did everything by myself and shared my work on GitHub and my personal website. I once managed HKD 320,000 on my own, investing in both the US and China markets with full risk control.
       </p>
       <p>
-       I believe hedge funds need people who take action, solve problems, and keep improving — even when working alone. I want to grow through real experience and turn my skills into something useful for a team.
+        I believe hedge funds need people who take action, solve problems, and keep improving — even when working alone. I want to grow through real experience and turn my skills into something useful for a team.
       </p>
     </div>
 
@@ -82,20 +79,15 @@ title: "About Me"
       </p>
     </div>
 
-    <!-- Technical & Investment Projects (圖片在左，文字在右) -->
+    <!-- Technical & Investment Projects 區塊 -->
     <div class="content">
       <h2>Technical & Investment Projects</h2>
-      <div style="display: flex; gap: 20px; align-items: flex-start;">
-        <img src="images/Return.jpeg"
-             alt="Return Chart"
-             style="max-width:300px; height:auto;">
-        <div>
-          <ol>
-            <li>Self-Initiated Investment &amp; Portfolio Management</li>
-          </ol>
-          <!-- 這裡可以再加一些文字描述該專案、策略、績效等 -->
-        </div>
-      </div>
+      <ol>
+        <li>Self-Initiated Investment &amp; Portfolio Management</li>
+      </ol>
+      <img src="images/Return.jpeg"
+           alt="Return Chart"
+           style="max-width:600px; display:block; margin-top:20px; margin-left:0;">
     </div>
   </div>
 </body>
