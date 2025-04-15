@@ -69,6 +69,14 @@ title: "About Me"
       In my first year, I was afraid of coding and math, so my GPA was only 2.5. Later, I worked hard and raised it to over 3.7+, getting A grades in all core tech subjects. But more important than grades, I think my real growth is shown by managing HKD 320,000 in assets and completing several finance and blockchain projects. This shows my strong determination.
        </p>
     </div>
+    
+    <!-- Certificates 內容 -->
+    <div class="content">
+      <h2>Certificates</h2>
+      <p>
+      IELTS score: 6.5 (Listening 7, Reading 7, Writing 6.5, Speaking 6). Now focusing on improving speaking; Passed HKSI Paper 1.
+         </p>
+    </div>
   </div>
 </body>
 </html>
