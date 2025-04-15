@@ -77,6 +77,15 @@ title: "About Me"
       IELTS score: 6.5 (Listening 7, Reading 7, Writing 6.5, Speaking 6). Now focusing on improving speaking; Passed HKSI Paper 1.
          </p>
     </div>
+
+    <h2>Technical & Investment Projects</h2>
+    <ol>
+      <li>Self-Initiated Investment & Portfolio Management</li>
+    </ol>
+
+    <img src="images/Return.jpeg"
+         alt="Return Chart"
+         style="width:100%; max-width:600px; margin-top: 20px;">
   </div>
 </body>
 </html>
