@@ -55,16 +55,10 @@ title: "About Me"
     <div class="content">
       <h2>About Me</h2>
       <p>
-        I am a FinTech student with a long-standing passion for hedge funds. Confronted with a disconnect between coursework and real-world practice, and a lack of resources and support, I chose to push beyond these limitations through self-learning.
+       I am a student studying FinTech, and I have a strong interest in hedge funds. Even though my school courses don’t match the real world and I had little support, I chose to push myself. I taught myself and finished many projects on finance and blockchain, such as portfolio management, building trading models, creating DAOs and cryptocurrencies. I did everything by myself and shared my work on GitHub and my personal website. I once managed HKD 320,000 on my own, investing in both the US and China markets with full risk control.
       </p>
       <p>
-        I independently completed multiple finance and blockchain projects—from portfolio management and quantitative model development to DAO and cryptocurrency design—all fully implemented by myself and open-sourced on GitHub and my personal website.
-      </p>
-      <p>
-        At one point, I managed assets totaling HKD 320,000 across both U.S. and Chinese markets with full responsibility for risk control and strategy.
-      </p>
-      <p>
-        I believe hedge funds need not passive learners, but proactive problem-solvers—people who can keep progressing and forge their own path, even alone. I am eager to grow through real-world experience and turn my skills into tangible value for a team.
+       I believe hedge funds need people who take action, solve problems, and keep improving — even when working alone. I want to grow through real experience and turn my skills into something useful for a team.
       </p>
     </div>
   </div>
