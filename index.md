@@ -64,7 +64,7 @@ title: "About Me"
 
     <!-- Personal Growth 內容 -->
     <div class="content">
-      <h2>About Me</h2>
+      <h2>Personal Growth</h2>
       <p>
       In my first year, I was afraid of coding and math, so my GPA was only 2.5. Later, I worked hard and raised it to over 3.7+, getting A grades in all core tech subjects. But more important than grades, I think my real growth is shown by managing HKD 320,000 in assets and completing several finance and blockchain projects. This shows my strong determination.
        </p>
