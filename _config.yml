@@ -2,6 +2,7 @@ title: "Siu - Personal Website"
 description: "Fintech | Hedge Funds | Quant Research | Blockchain"
 url: ""               # <- 必須為空
 baseurl: ""           # <- 必須為空
+theme: minimal-mistakes-jekyll
 
 # 選單
 nav:
