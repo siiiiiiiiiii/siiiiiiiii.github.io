@@ -1,27 +1,30 @@
-title                    : "Siu - Personal Website"
-description              : "Fintech | Hedge Funds | Quant Research | Blockchain"
-url                      : ""
-baseurl                  : ""
+title: "Siu - Personal Website"
+description: "Fintech | Hedge Funds | Quant Research | Blockchain"
+url: ""               # <- 必須為空
+baseurl: ""           # <- 必須為空
 
-# 導覽列選單
+# 選單
 nav:
   - title: "Home"
     url: "/"
   - title: "Projects"
     url: /portfolio/
 
+# 作者資訊
 author:
-  name            : "Siu"
-  bio             : "Fintech enthusiast. Quant + Blockchain + Hedge Funds."
-  location        : "Hong Kong"
-  email           : "Kingstonsiu20040801@gmail.com"
-  github          : "siiiiiiiiii"
+  name: "Siu"
+  bio: "Fintech enthusiast. Quant + Blockchain + Hedge Funds."
+  location: "Hong Kong"
+  email: "Kingstonsiu20040801@gmail.com"
+  github: "siiiiiiiiii"
 
+# 頁面分類
 collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
 
+# 預設版型
 defaults:
   - scope:
       path: ""
@@ -36,9 +39,12 @@ defaults:
       layout: single
       author_profile: true
 
+# 啟用 Jekyll 標準 Markdown 處理
 markdown: kramdown
-theme: minima
+theme: minimal-mistakes-jekyll
 
+# 插件（最基本）
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jemoji
