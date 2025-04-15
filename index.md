@@ -39,6 +39,9 @@ title: "About Me"
       line-height: 1.8;
       margin-bottom: 30px;
     }
+    .content img {
+      display: block;
+    }
   </style>
 </head>
 <body>
@@ -56,10 +59,10 @@ title: "About Me"
     <div class="content">
       <h2>About Me</h2>
       <p>
-        I am a student studying FinTech, and I have a strong interest in hedge funds. Even though my school courses don’t match the real world and I had little support, I chose to push myself. I taught myself and finished many projects on finance and blockchain, such as portfolio management, building trading models, creating DAOs and cryptocurrencies. I did everything by myself and shared my work on GitHub and my personal website. I once managed HKD 320,000 on my own, investing in both the US and China markets with full risk control.
+       I am a student studying FinTech, and I have a strong interest in hedge funds. Even though my school courses don’t match the real world and I had little support, I chose to push myself. I taught myself and finished many projects on finance and blockchain, such as portfolio management, building trading models, creating DAOs and cryptocurrencies. I did everything by myself and shared my work on GitHub and my personal website. I once managed HKD 320,000 on my own, investing in both the US and China markets with full risk control.
       </p>
       <p>
-        I believe hedge funds need people who take action, solve problems, and keep improving — even when working alone. I want to grow through real experience and turn my skills into something useful for a team.
+       I believe hedge funds need people who take action, solve problems, and keep improving — even when working alone. I want to grow through real experience and turn my skills into something useful for a team.
       </p>
     </div>
 
@@ -85,6 +88,12 @@ title: "About Me"
       <ol>
         <li>Self-Initiated Investment &amp; Portfolio Management</li>
       </ol>
+      <p>
+        I began investing in my first year of university, using the money-weighted return as a performance metric. In the first year, I achieved a 9% return, which increased to 20% in the second year. In the third year, I expanded into both the U.S. and Chinese markets, allocating to recession-resilient assets. I ensured each stock accounted for only 1–5% of the portfolio to withstand macroeconomic volatility. As of April 15, I successfully limited this year's drawdown to -3.99% (compared to the S&P 500’s -8.25%, NASDAQ’s -12.88%, and Nikkei’s -14.1%). My portfolio reached a peak value of HKD 320,000, including a six-figure amount entrusted entirely to me by my father, demonstrating my asset management ability, risk control awareness, and fiduciary responsibility beyond the level of my peers.
+      </p>
+      <p>
+        I firmly believe that great long-term investors don't rely on predicting the market, but on asset allocation to weather any storm!
+      </p>
       <img src="images/Return.jpeg"
            alt="Return Chart"
            style="max-width:600px; display:block; margin-top:20px; margin-left:0;">
