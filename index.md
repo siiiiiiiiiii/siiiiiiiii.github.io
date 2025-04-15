@@ -1,8 +1,9 @@
 ---
-layout: single
+layout: default
 title: "About Me"
-author_profile: true
 ---
+
+# About Me
 
 I am a Financial Technology student with a long-standing passion for hedge funds. Confronted with a disconnect between coursework and real-world practice, and a lack of resources and support, I chose to push beyond these limitations through self-learning. I independently completed multiple finance and blockchain projects—from portfolio management and quantitative model development to DAO and cryptocurrency design—all fully implemented by myself and open-sourced on GitHub and my personal website. At one point, I managed assets totaling HKD 320,000 across both U.S. and Chinese markets with full responsibility for risk control and strategy.
 
