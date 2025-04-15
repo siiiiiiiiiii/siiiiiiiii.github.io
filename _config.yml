@@ -3,7 +3,7 @@ title: "Siu - Personal Website"
 description: "Fintech | Hedge Funds | Quant Research | Blockchain"
 url: ""
 baseurl: ""
-theme: minima  # ✅ 官方內建主題，不會報錯
+theme: jekyll-theme-cayman  # ✅ 官方內建主題，不會報錯
 
 # 導覽列（僅 Home + Projects）
 nav:
