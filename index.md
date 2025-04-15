@@ -61,6 +61,14 @@ title: "About Me"
        I believe hedge funds need people who take action, solve problems, and keep improving — even when working alone. I want to grow through real experience and turn my skills into something useful for a team.
       </p>
     </div>
+
+    <!-- Personal Growth 內容 -->
+    <div class="content">
+      <h2>About Me</h2>
+      <p>
+      In my first year, I was afraid of coding and math, so my GPA was only 2.5. Later, I worked hard and raised it to over 3.7+, getting A grades in all core tech subjects. But more important than grades, I think my real growth is shown by managing HKD 320,000 in assets and completing several finance and blockchain projects. This shows my strong determination.
+       </p>
+    </div>
   </div>
 </body>
 </html>
