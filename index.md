@@ -35,8 +35,17 @@ title: "About Me"
       margin: 5px 0;
     }
     .content {
-      font-size: 20px;
-      line-height: 1.8;
+      font-size: 20px;   /* 與其他內文一致 */
+      line-height: 1.8;  /* 與其他內文一致 */
+      margin-bottom: 30px;  /* 段落底部留白 */
+    }
+    /* 額外讓圖片不要過大，保持美觀 */
+    .content img {
+      display: block;            /* 圖片獨佔一行 */
+      margin: 20px auto 0 auto; /* 上方留白 + 置中 */
+      max-width: 400px;         /* 縮小圖片寬度上限 */
+      width: 100%;              /* 在行動裝置上自動縮放 */
+      height: auto;             /* 等比縮放 */
     }
   </style>
 </head>
@@ -66,26 +75,27 @@ title: "About Me"
     <div class="content">
       <h2>Personal Growth</h2>
       <p>
-      In my first year, I was afraid of coding and math, so my GPA was only 2.5. Later, I worked hard and raised it to over 3.7+, getting A grades in all core tech subjects. But more important than grades, I think my real growth is shown by managing HKD 320,000 in assets and completing several finance and blockchain projects. This shows my strong determination.
-       </p>
+        In my first year, I was afraid of coding and math, so my GPA was only 2.5. Later, I worked hard and raised it to over 3.7+, getting A grades in all core tech subjects. But more important than grades, I think my real growth is shown by managing HKD 320,000 in assets and completing several finance and blockchain projects. This shows my strong determination.
+      </p>
     </div>
     
     <!-- Certificates 內容 -->
     <div class="content">
       <h2>Certificates</h2>
       <p>
-      IELTS score: 6.5 (Listening 7, Reading 7, Writing 6.5, Speaking 6). Now focusing on improving speaking; Passed HKSI Paper 1.
-         </p>
+        IELTS score: 6.5 (Listening 7, Reading 7, Writing 6.5, Speaking 6). Now focusing on improving speaking; Passed HKSI Paper 1.
+      </p>
     </div>
 
-    <h2>Technical & Investment Projects</h2>
-    <ol>
-      <li>Self-Initiated Investment & Portfolio Management</li>
-    </ol>
-
-    <img src="images/Return.jpeg"
-         alt="Return Chart"
-         style="width:100%; max-width:600px; margin-top: 20px;">
+    <!-- Technical & Investment Projects -->
+    <div class="content">
+      <h2>Technical & Investment Projects</h2>
+      <ol>
+        <li>Self-Initiated Investment &amp; Portfolio Management</li>
+      </ol>
+      <img src="images/Return.jpeg"
+           alt="Return Chart">
+    </div>
   </div>
 </body>
 </html>
