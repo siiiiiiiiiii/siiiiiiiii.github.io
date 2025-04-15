@@ -35,17 +35,12 @@ title: "About Me"
       margin: 5px 0;
     }
     .content {
-      font-size: 20px;   /* 與其他內文一致 */
-      line-height: 1.8;  /* 與其他內文一致 */
-      margin-bottom: 30px;  /* 段落底部留白 */
+      font-size: 20px;
+      line-height: 1.8;
+      margin-bottom: 30px;
     }
-    /* 額外讓圖片不要過大，保持美觀 */
     .content img {
-      display: block;            /* 圖片獨佔一行 */
-      margin: 20px auto 0 auto; /* 上方留白 + 置中 */
-      max-width: 400px;         /* 縮小圖片寬度上限 */
-      width: 100%;              /* 在行動裝置上自動縮放 */
-      height: auto;             /* 等比縮放 */
+      display: block;
     }
   </style>
 </head>
@@ -87,14 +82,20 @@ title: "About Me"
       </p>
     </div>
 
-    <!-- Technical & Investment Projects -->
+    <!-- Technical & Investment Projects (圖片在左，文字在右) -->
     <div class="content">
       <h2>Technical & Investment Projects</h2>
-      <ol>
-        <li>Self-Initiated Investment &amp; Portfolio Management</li>
-      </ol>
-      <img src="images/Return.jpeg"
-           alt="Return Chart">
+      <div style="display: flex; gap: 20px; align-items: flex-start;">
+        <img src="images/Return.jpeg"
+             alt="Return Chart"
+             style="max-width:300px; height:auto;">
+        <div>
+          <ol>
+            <li>Self-Initiated Investment &amp; Portfolio Management</li>
+          </ol>
+          <!-- 這裡可以再加一些文字描述該專案、策略、績效等 -->
+        </div>
+      </div>
     </div>
   </div>
 </body>
