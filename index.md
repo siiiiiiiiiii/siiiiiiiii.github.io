@@ -3,8 +3,6 @@ title: "About Me"
 layout: default
 ---
 
-<!-- 以上為 Front Matter，以下為 Markdown+HTML 內容 -->
-
 <style>
   body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
@@ -73,15 +71,13 @@ layout: default
     <p>
       If you would like a more in-depth look at my investment experience, 
       please see my full report here: 
-      <a href="/Report_Investment.pdf" target="_blank"><strong>Report_Investment.pdf</strong></a>
+      <a href="/siiiiiiiiiii.github.io/Report_Investment.pdf" target="_blank"><strong>Report_Investment.pdf</strong></a>
     </p>
 
-    <p>
-      **Alternatively, view the embedded PDF below**:
-    </p>
-    <object data="/Report_Investment.pdf" type="application/pdf" width="100%" height="800px">
+    <p><strong>Alternatively, view the embedded PDF below:</strong></p>
+    <object data="/siiiiiiiiiii.github.io/Report_Investment.pdf" type="application/pdf" width="100%" height="800px">
       <p>Your browser does not support PDFs. 
-         <a href="/Report_Investment.pdf">Download the PDF</a> instead.</p>
+         <a href="/siiiiiiiiiii.github.io/Report_Investment.pdf">Download the PDF</a> instead.</p>
     </object>
 
   </div>
