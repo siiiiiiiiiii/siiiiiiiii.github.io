@@ -107,6 +107,8 @@ layout: false
     <!-- Projects -->
     <div class="content">
       <h2>Technical & Investment Projects</h2>
+
+      <!-- 1 -->
       <p class="project-title">1: Self‑Initiated Investment & Portfolio Management</p>
       <p>
         I began investing in my first year, using money‑weighted return (MWR) as my performance metric. 
@@ -123,7 +125,6 @@ layout: false
         asset allocation to weather the storm.
       </p>
 
-      <!-- PDF 下載按鈕（Google Drive） -->
       <p>
         <a class="pdf-button" 
            href="https://drive.google.com/file/d/11gKLdVnUSWhS5Hmr_qq_7RQm1dtSxJ-W/view?usp=sharing" 
@@ -131,6 +132,36 @@ layout: false
           📄 View Full Investment Report (Google Drive)
         </a>
       </p>
+
+      <!-- 2 -->
+      <p class="project-title">2: Quantitative Trading & Data‑Driven Models</p>
+      <p>
+        Built a Cointegration Pairs Trading Model incorporating the Johansen cointegration test, OLS hedge ratio, 
+        ATR‑based stop loss, target‑volatility leverage adjustment, and multi‑stage parameter optimization. 
+        In a 6‑year back‑test, the model achieved an annualized return of 6.27%, annualized volatility of 9.21%, 
+        a Sharpe Ratio of 0.68, a Sortino Ratio of 0.78, and a maximum drawdown of –8.67%, demonstrating solid 
+        risk control.
+      </p>
+      <p>
+        During out‑of‑sample testing, the model performed better than during training, delivering an annualized 
+        return of 8.64% and a Sharpe Ratio of 0.80 while maintaining a stable maximum drawdown. This suggests 
+        the model was not over‑fitted and generalizes well to unseen data.
+      </p>
+      <p>
+        Although the annualized return of 6.27% was lower than a Buy‑and‑Hold strategy (24.32%), the strategy’s 
+        annualized volatility was only 9.21% (vs 28.74%) and maximum drawdown –8.67% (vs –40.54%), while remaining 
+        fully market‑neutral. This implies the strategy can generate alpha regardless of market direction, offering 
+        stable long‑term gains.
+      </p>
+
+      <p>
+        <a class="pdf-button" 
+           href="https://drive.google.com/file/d/1ZEI7BnvRLfd9WSh-Igyba2ojisQhTBeQ/view?usp=sharing" 
+           target="_blank">
+          📄 View Cointegration‑Based Pairs Trading Model Report
+        </a>
+      </p>
+
     </div>
 
   </div>
