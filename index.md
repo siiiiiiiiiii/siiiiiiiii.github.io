@@ -25,8 +25,12 @@ layout: false
     .profile-header p {
       font-size: 18px; margin: 5px 0;
     }
+    /* 這邊加上 text-align: justify，讓主要內容做左右對齊 */
     .content {
-      font-size: 20px; line-height: 1.8; margin-bottom: 30px;
+      font-size: 20px;
+      line-height: 1.8;
+      margin-bottom: 30px;
+      text-align: justify;
     }
     .project-title {
       font-size: 22px; font-weight: bold; color: #111; margin-bottom: 10px;
