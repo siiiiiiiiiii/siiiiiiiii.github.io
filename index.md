@@ -26,11 +26,24 @@ layout: default
   .project-title {
     font-size: 22px; font-weight: bold; color: #111; margin-bottom: 10px;
   }
+  .pdf-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #0366d6;
+    color: white;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  .pdf-button:hover {
+    background-color: #024fa2;
+  }
 </style>
 
 <div class="container">
 
-  <!-- 個人資訊卡 -->
+  <!-- 個人資訊 -->
   <div class="profile-header">
     <h1>Siu King Sum Personal Website</h1>
     <p><strong>Email:</strong> <a href="mailto:Kingstonsiu20040801@gmail.com">Kingstonsiu20040801@gmail.com</a></p>
@@ -39,25 +52,25 @@ layout: default
     <p><strong>College:</strong> Hong Kong Shue Yan University (Year 3)</p>
   </div>
 
-  <!-- About Me -->
+  <!-- 自我介紹 -->
   <div class="content">
     <h2>About Me</h2>
     <p>I am a student studying FinTech, with strong interest in hedge funds and real-world finance. I've completed many finance and blockchain projects on my own and managed a portfolio reaching HKD 320,000.</p>
   </div>
 
-  <!-- Personal Growth -->
+  <!-- 成長經歷 -->
   <div class="content">
     <h2>Personal Growth</h2>
     <p>In my first year, I was afraid of coding and math, so my GPA was only 2.5. Later, I worked hard and raised it to over 3.7+, getting A's in all core tech subjects.</p>
   </div>
 
-  <!-- Certificates -->
+  <!-- 證書 -->
   <div class="content">
     <h2>Certificates</h2>
     <p>IELTS score: 6.5 (Listening 7, Reading 7, Writing 6.5, Speaking 6). Now focusing on improving speaking; Passed HKSI Paper 1.</p>
   </div>
 
-  <!-- Projects -->
+  <!-- 專案介紹 -->
   <div class="content">
     <h2>Technical & Investment Projects</h2>
     <p class="project-title">1: Self-Initiated Investment & Portfolio Management</p>
@@ -68,17 +81,18 @@ layout: default
       I firmly believe that great long-term investors don't rely on predicting the market, 
       but on asset allocation to weather any storm!
     </p>
+
+    <!-- PDF 按鈕 -->
     <p>
-      If you would like a more in-depth look at my investment experience, 
-      please see my full report here: 
-      <a href="/Report_Investment.pdf" target="_blank"><strong>Report_Investment.pdf</strong></a>
+      <a class="pdf-button" href="/Report_Investment.pdf" target="_blank">📄 View Full Investment Report (PDF)</a>
     </p>
 
-    <p><strong>Alternatively, view the embedded PDF below:</strong></p>
+    <!-- PDF 嵌入顯示 -->
+    <p><strong>Or view it below:</strong></p>
     <object data="/Report_Investment.pdf" type="application/pdf" width="100%" height="800px">
-      <p>Your browser does not support PDFs. 
-         <a href="/Report_Investment.pdf">Download the PDF</a> instead.</p>
+      <p>Your browser does not support embedded PDFs. 
+         <a href="/Report_Investment.pdf" class="pdf-button">Download the PDF</a> instead.</p>
     </object>
-
   </div>
+
 </div>
