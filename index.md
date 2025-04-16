@@ -102,7 +102,7 @@ title: "About Me"
       </p>
       <p>
         I firmly believe that great long-term investors don't rely on predicting the market, but on asset allocation to weather any storm!
-      </p>
+      <p>
       
         If you would like a more in-depth look at my investment experience, please see my full report here: 
         <a href="{{ '/assets/Report_Investment.pdf' | relative_url }}" target="_blank">
