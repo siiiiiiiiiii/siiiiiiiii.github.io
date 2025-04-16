@@ -52,31 +52,33 @@ layout: default
     <p><strong>College:</strong> Hong Kong Shue Yan University (Year 3)</p>
   </div>
 
-  <!-- 自我介紹 -->
+  <!-- About Me -->
   <div class="content">
     <h2>About Me</h2>
-    <p>I am a student studying FinTech, with strong interest in hedge funds and real-world finance. I've completed many finance and blockchain projects on my own and managed a portfolio reaching HKD 320,000.</p>
+    <p>I am a student studying FinTech, with a strong interest in hedge funds and real-world finance. 
+       I've completed many finance and blockchain projects on my own and managed a portfolio reaching HKD 320,000.</p>
   </div>
 
-  <!-- 成長經歷 -->
+  <!-- Personal Growth -->
   <div class="content">
     <h2>Personal Growth</h2>
-    <p>In my first year, I was afraid of coding and math, so my GPA was only 2.5. Later, I worked hard and raised it to over 3.7+, getting A's in all core tech subjects.</p>
+    <p>In my first year, I was afraid of coding and math, so my GPA was only 2.5. 
+       Later, I worked hard and raised it to over 3.7+, getting A's in all core tech subjects.</p>
   </div>
 
-  <!-- 證書 -->
+  <!-- Certificates -->
   <div class="content">
     <h2>Certificates</h2>
-    <p>IELTS score: 6.5 (Listening 7, Reading 7, Writing 6.5, Speaking 6). Now focusing on improving speaking; Passed HKSI Paper 1.</p>
+    <p>IELTS score: 6.5 (Listening 7, Reading 7, Writing 6.5, Speaking 6). 
+       Now focusing on improving speaking; Passed HKSI Paper 1.</p>
   </div>
 
-  <!-- 專案介紹 -->
+  <!-- Projects -->
   <div class="content">
     <h2>Technical & Investment Projects</h2>
     <p class="project-title">1: Self-Initiated Investment & Portfolio Management</p>
     <p>Managed HKD 320,000, allocating to both U.S. and Chinese markets, implementing robust risk control. 
-       My father also entrusted a six-figure sum to me, which I managed responsibly, 
-       demonstrating my seriousness about asset management.</p>
+       My father also entrusted a six-figure sum to me, demonstrating my seriousness about asset management.</p>
     <p>
       I firmly believe that great long-term investors don't rely on predicting the market, 
       but on asset allocation to weather any storm!
@@ -84,10 +86,12 @@ layout: default
 
     <!-- PDF 按鈕 -->
     <p>
-      <a class="pdf-button" href="/Report_Investment.pdf" target="_blank">📄 View Full Investment Report (PDF)</a>
+      <a class="pdf-button" href="/Report_Investment.pdf" target="_blank">
+        📄 Full Investment Report (PDF)
+      </a>
     </p>
 
-    <!-- PDF 嵌入顯示 -->
+    <!-- PDF 嵌入 -->
     <p><strong>Or view it below:</strong></p>
     <object data="/Report_Investment.pdf" type="application/pdf" width="100%" height="800px">
       <p>Your browser does not support embedded PDFs. 
