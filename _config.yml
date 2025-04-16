@@ -1,3 +1,5 @@
+# _config.yml
+
 # 基本設定
 title: "Siu - Personal Website"
 description: "Fintech | Hedge Funds | Quant Research | Blockchain"
@@ -30,3 +32,7 @@ defaults:
       type: pages
     values:
       layout: default
+
+# 讓 Jekyll 部署時包含 assets 裡的 PDF 檔
+include:
+  - assets/Report_Investment.pdf
