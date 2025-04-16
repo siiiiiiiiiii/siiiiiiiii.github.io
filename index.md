@@ -48,16 +48,16 @@ title: "About Me"
       height: auto;
     }
     .project-title {
-      font-size: 20px;
+      font-size: 22px;
       font-weight: bold;
-      color: #222;
+      color: #111;
       margin-bottom: 10px;
     }
   </style>
 </head>
 <body>
   <div class="container">
-    <!-- Header -->
+    <!-- 個人資訊卡 -->
     <div class="profile-header">
       <h1>Siu King Sum Personal Website</h1>
       <p><strong>Email:</strong> <a href="mailto:Kingstonsiu20040801@gmail.com">Kingstonsiu20040801@gmail.com</a></p>
@@ -66,7 +66,7 @@ title: "About Me"
       <p><strong>College:</strong> Hong Kong Shue Yan University (Year 3)</p>
     </div>
 
-    <!-- About -->
+    <!-- About Me -->
     <div class="content">
       <h2>About Me</h2>
       <p>
@@ -77,7 +77,7 @@ title: "About Me"
       </p>
     </div>
 
-    <!-- Growth -->
+    <!-- Personal Growth -->
     <div class="content">
       <h2>Personal Growth</h2>
       <p>
@@ -96,20 +96,19 @@ title: "About Me"
     <!-- Projects -->
     <div class="content">
       <h2>Technical & Investment Projects</h2>
-      <p class="project-title">1: Self-Initiated Investment &amp; Portfolio Management</p>
-
+      <p class="project-title">1: Self-Initiated Investment & Portfolio Management</p>
       <p>
         I began investing in my first year of university, using the money-weighted return as a performance metric. In the first year, I achieved a 9% return, which increased to 20% in the second year. In the third year, I expanded into both the U.S. and Chinese markets, allocating to recession-resilient assets. I ensured each stock accounted for only 1–5% of the portfolio to withstand macroeconomic volatility. As of April 15, I successfully limited this year's drawdown to -3.99% (compared to the S&P 500’s -8.25%, NASDAQ’s -12.88%, and Nikkei’s -14.1%). My portfolio reached a peak value of HKD 320,000, including a six-figure amount entrusted entirely to me by my father, demonstrating my asset management ability, risk control awareness, and fiduciary responsibility beyond the level of my peers.
       </p>
       <p>
         I firmly believe that great long-term investors don't rely on predicting the market, but on asset allocation to weather any storm!
       </p>
-
       <img src="images/Return.jpeg" alt="Return Chart">
-
       <p style="margin-top: 20px;">
         If you would like a more in-depth look at my investment experience, please see my full report here: 
-        <a href="{{ '/assets/Report_Investment.pdf' | relative_url }}" target="_blank"><strong>Report_Investment.pdf</strong></a>.
+        <a href="{{ '/assets/Report_Investment.pdf' | relative_url }}" target="_blank">
+          <strong>Report_Investment.pdf</strong>
+        </a>.
       </p>
     </div>
   </div>
