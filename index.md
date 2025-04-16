@@ -3,7 +3,6 @@ title: "About Me"
 layout: false
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -124,12 +123,12 @@ layout: false
         asset allocation to weather the storm.
       </p>
 
-      <!-- PDF 下載按鈕（Google Docs） -->
+      <!-- PDF 下載按鈕（Google Drive） -->
       <p>
         <a class="pdf-button" 
            href="https://drive.google.com/file/d/11gKLdVnUSWhS5Hmr_qq_7RQm1dtSxJ-W/view?usp=sharing" 
            target="_blank">
-          📄 View Full Investment Report (Google Docs)
+          📄 View Full Investment Report (Google Drive)
         </a>
       </p>
     </div>
