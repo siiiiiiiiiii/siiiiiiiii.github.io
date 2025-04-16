@@ -84,19 +84,20 @@ layout: default
       but on asset allocation to weather any storm!
     </p>
 
-    <!-- PDF 按鈕 -->
+    <!-- PDF 下載按鈕 -->
     <p>
-      <a class="pdf-button" href="/Report_Investment.pdf" target="_blank">
-        📄 Full Investment Report (PDF)
+      <a class="pdf-button" href="/assets/Report_Investment.pdf" target="_blank">
+        📄 View Full Investment Report (PDF)
       </a>
     </p>
 
-    <!-- PDF 嵌入 -->
+    <!-- PDF 內嵌顯示 -->
     <p><strong>Or view it below:</strong></p>
-    <object data="/Report_Investment.pdf" type="application/pdf" width="100%" height="800px">
-      <p>Your browser does not support embedded PDFs. 
-         <a href="/Report_Investment.pdf" class="pdf-button">Download the PDF</a> instead.</p>
+    <object data="/assets/Report_Investment.pdf" type="application/pdf" width="100%" height="800px">
+      <p>Your browser does not support PDFs.
+         <a href="/assets/Report_Investment.pdf" class="pdf-button">Download the PDF</a> instead.</p>
     </object>
+
   </div>
 
 </div>
