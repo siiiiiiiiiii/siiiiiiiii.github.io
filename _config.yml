@@ -1,21 +1,21 @@
 # --- 基本設定 ---
 title: "Siu - Personal Website"
 description: "Fintech | Hedge Funds | Quant Research | Blockchain"
-url: ""           # 你的網站 URL (若使用自訂網域，可在此填入)
-baseurl: ""       # 若不是 user/org 頁面，可以自訂 baseurl
+url: ""
+baseurl: ""
 
-theme: minima     # GitHub Pages 內建安全主題
+theme: minima  # GitHub Pages 內建安全主題
 
 # --- 允許 Jekyll 部署 PDF 檔案 (非常重要) ---
 include:
   - "Report_Investment.pdf"
 
-# --- 需要的 Plugins (jekyll-feed, jekyll-sitemap 都是 GitHub Pages 預設允許的) ---
+# --- Plugins (GitHub Pages 預設支持 jekyll-feed, jekyll-sitemap) ---
 plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-# --- 預設頁面設定 (讓所有 pages 使用 minima 的 default layout) ---
+# --- 預設頁面設定 (為所有 Pages 指定 Layout) ---
 defaults:
   - scope:
       path: ""
