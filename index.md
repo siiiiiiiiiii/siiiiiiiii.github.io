@@ -107,9 +107,6 @@ title: "About Me"
         If you would like a more in-depth look at my investment experience, please see my full report here: 
         <a href="{{ '/assets/Report_Investment.pdf' | relative_url }}" target="_blank">
           <strong>Report_Investment.pdf</strong>
-        </a>.
-      </p>
-    </div>
   </div>
 </body>
 </html>
