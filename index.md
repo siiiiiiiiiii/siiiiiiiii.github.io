@@ -84,19 +84,16 @@ layout: default
       but on asset allocation to weather any storm!
     </p>
 
-    <!-- PDF 下載按鈕 -->
+    <!-- PDF 下載按鈕（Google Drive） -->
     <p>
-      <a class="pdf-button" href="/assets/Report_Investment.pdf" target="_blank">
-        📄 View Full Investment Report (PDF)
+      <a class="pdf-button" href="https://drive.google.com/file/d/1ODMQx_uwf6R1N7iZGKptuoBFbhAymbe6/view?usp=sharing" target="_blank">
+        📄 View Full Investment Report (Google Drive)
       </a>
     </p>
 
-    <!-- PDF 內嵌顯示 -->
-    <p><strong>Or view it below:</strong></p>
-    <object data="/assets/Report_Investment.pdf" type="application/pdf" width="100%" height="800px">
-      <p>Your browser does not support PDFs.
-         <a href="/assets/Report_Investment.pdf" class="pdf-button">Download the PDF</a> instead.</p>
-    </object>
+    <!-- Google Drive PDF 內嵌預覽 -->
+    <p><strong>Or view it directly below:</strong></p>
+    <iframe src="https://drive.google.com/file/d/1ODMQx_uwf6R1N7iZGKptuoBFbhAymbe6/preview" width="100%" height="800px" allow="autoplay"></iframe>
 
   </div>
 
