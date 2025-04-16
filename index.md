@@ -66,34 +66,59 @@ layout: false
     <!-- About Me -->
     <div class="content">
       <h2>About Me</h2>
-      <p>I am a student studying FinTech, with a strong interest in hedge funds and real-world finance. 
-         I've completed many finance and blockchain projects on my own and managed a portfolio reaching HKD 320,000.
+      <p>
+        I am a FinTech student with a passion for hedge funds. Faced with the disconnect between coursework 
+        and real-world application, as well as a lack of resources and support, I chose to push beyond 
+        limitations through self-learning. I independently completed multiple projects in finance and blockchain 
+        — from portfolio management to quantitative model development, and even DAO and cryptocurrency design — 
+        all of which I personally built and open-sourced on GitHub and my personal website. At one point, I 
+        managed assets totaling HKD 320,000, spanning both U.S. and Chinese markets with full responsibility 
+        for risk control and execution.
+      </p>
+      <p>
+        I firmly believe that hedge funds don’t need passive learners — they need individuals who can solve 
+        problems independently, keep improving, and forge a path even when working alone. I am eager to grow 
+        through hands-on experience and turn my abilities into tangible value for a team.
       </p>
     </div>
 
     <!-- Personal Growth -->
     <div class="content">
       <h2>Personal Growth</h2>
-      <p>In my first year, I was afraid of coding and math, so my GPA was only 2.5. 
-         Later, I worked hard and raised it to over 3.7+, getting A's in all core tech subjects.</p>
+      <p>
+        In my first year, I struggled with programming and mathematics, resulting in a GPA of only 2.5. Since then, 
+        I have raised it to above 3.7+, achieving A grades in all core technology courses. More than grades, it is 
+        my continuous self-improvement and real-world accomplishments — including managing a HKD 320,000 portfolio 
+        and completing multiple finance and blockchain projects — that truly reflect my determination.
+      </p>
     </div>
 
     <!-- Certificates -->
     <div class="content">
-      <h2>Certificates</h2>
-      <p>IELTS score: 6.5 (Listening 7, Reading 7, Writing 6.5, Speaking 6). 
-         Now focusing on improving speaking; Passed HKSI Paper 1.</p>
+      <h2>Certifications</h2>
+      <p>
+        IELTS Overall Band: 6.5 (Listening 7, Reading 7, Writing 6.5, Speaking 6); currently focusing on 
+        improving speaking; Passed HKSI Paper 1
+      </p>
     </div>
 
     <!-- Projects -->
     <div class="content">
       <h2>Technical & Investment Projects</h2>
       <p class="project-title">1: Self-Initiated Investment & Portfolio Management</p>
-      <p>Managed HKD 320,000, allocating to both U.S. and Chinese markets, implementing robust risk control. 
-         My father also entrusted a six-figure sum to me, demonstrating my seriousness about asset management.</p>
       <p>
-        I firmly believe that great long-term investors don't rely on predicting the market, 
-        but on asset allocation to weather any storm!
+        I began investing in my first year, using money-weighted return (MWR) as my performance metric. 
+        I achieved a 9% return in the first year and improved to 20% in the second. In the third year, 
+        I expanded into both U.S. and Chinese markets, allocating capital to recession-resistant assets, 
+        limiting each stock to 1–5% of total portfolio value to mitigate macroeconomic volatility. 
+        As of April 15, I successfully limited this year’s drawdown to -3.99%, compared to S&P 500 (-8.25%), 
+        NASDAQ (-12.88%), and Nikkei (-14.1%). My portfolio peaked at HKD 320,000, including a six-figure sum 
+        entrusted solely to me by my father — a strong vote of confidence in my asset management skills, 
+        risk control awareness, and sense of fiduciary responsibility.
+      </p>
+      <p>
+        I firmly believe that great long-term investors don’t rely on market predictions — they rely on 
+        asset allocation to weather the storm.
       </p>
 
       <!-- PDF 下載按鈕（Google Drive） -->
