@@ -127,7 +127,7 @@ layout: false
       <!-- PDF 下載按鈕（Google Docs） -->
       <p>
         <a class="pdf-button" 
-           href="https://docs.google.com/document/d/1MpYMbYPoevStlWIRG4HNBsaKSveFlWZ3/edit?usp=sharing&ouid=113991409566639759381&rtpof=true&sd=true" 
+           href="https://drive.google.com/file/d/11gKLdVnUSWhS5Hmr_qq_7RQm1dtSxJ-W/view?usp=sharing" 
            target="_blank">
           📄 View Full Investment Report (Google Docs)
         </a>
