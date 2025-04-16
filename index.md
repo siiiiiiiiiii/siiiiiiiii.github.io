@@ -91,7 +91,7 @@ layout: default
       </a>
     </p>
 
-    <!-- Google Drive PDF 內嵌預覽 -->
+    <!-- PDF 真實內嵌 -->
     <p><strong>Or view it directly below:</strong></p>
     <iframe src="https://drive.google.com/file/d/1ODMQx_uwf6R1N7iZGKptuoBFbhAymbe6/preview" width="100%" height="800px" allow="autoplay"></iframe>
 
