@@ -29,6 +29,11 @@ layout: false
       line-height: 1.8;
       margin-bottom: 30px;
       text-align: justify;
+      color: #222;
+    }
+    .content h2 {
+      color: #111;
+      margin-top: 40px;
     }
     .project-title {
       font-size: 22px; font-weight: bold; color: #111; margin-bottom: 10px;
@@ -104,11 +109,9 @@ layout: false
       </p>
     </div>
 
-    <!-- Projects -->
+    <!-- Technical & Investment Projects -->
     <div class="content">
       <h2>Technical & Investment Projects</h2>
-
-      <!-- 1 -->
       <p class="project-title">1: Self‑Initiated Investment & Portfolio Management</p>
       <p>
         I began investing in my first year, using money‑weighted return (MWR) as my performance metric. 
@@ -131,62 +134,37 @@ layout: false
           📄 View Full Investment Report (Google Drive)
         </a>
       </p>
+    </div>
 
-      <!-- 2 -->
-      <p class="project-title">2: Quantitative Trading & Data‑Driven Models</p>
+    <!-- New Section: Quantitative Trading -->
+    <div class="content">
+      <h2>2. Quantitative Trading & Data-Driven Models</h2>
+      <p class="project-title">2.1: Cointegration-Based Pairs Trading Model</p>
       <p>
-        Built a Cointegration Pairs Trading Model incorporating the Johansen cointegration test, OLS hedge ratio, 
-        ATR‑based stop loss, target‑volatility leverage adjustment, and multi‑stage parameter optimization. 
-        In a 6‑year back‑test, the model achieved an annualized return of 6.27%, annualized volatility of 9.21%, 
-        a Sharpe Ratio of 0.68, a Sortino Ratio of 0.78, and a maximum drawdown of –8.67%, demonstrating solid 
-        risk control.
+        Built a Cointegration Pairs Trading Model, incorporating Johansen cointegration test, OLS hedge ratio, 
+        ATR-based stop loss, target volatility leverage adjustment, and multi-stage parameter optimization. 
+        In a 6-year backtest, the model achieved an annualized return of 6.27%, annualized volatility of 9.21%, 
+        a Sharpe Ratio of 0.68, a Sortino Ratio of 0.78, and a maximum drawdown of -8.67%, demonstrating risk control.
       </p>
       <p>
-        During out‑of‑sample testing, the model performed better than during training, delivering an annualized 
-        return of 8.64% and a Sharpe Ratio of 0.80 while maintaining a stable maximum drawdown. This suggests 
-        the model was not over‑fitted and generalizes well to unseen data.
-      </p>
-      <p>
-        Although the annualized return of 6.27% was lower than a Buy‑and‑Hold strategy (24.32%), the strategy’s 
-        annualized volatility was only 9.21% (vs 28.74%) and maximum drawdown –8.67% (vs –40.54%), while remaining 
-        fully market‑neutral. This implies the strategy can generate alpha regardless of market direction, offering 
-        stable long‑term gains.
-      </p>
-      <p>
-        <a class="pdf-button" 
-           href="https://drive.google.com/file/d/1ZEI7BnvRLfd9WSh-Igyba2ojisQhTBeQ/view?usp=sharing" 
-           target="_blank">
-          📄 View Cointegration‑Based Pairs Trading Model Report
-        </a>
-      </p>
-
-      <!-- 2.1 -->
-      <p class="project-title">2.1: Cointegration‑Based Pairs Trading Model</p>
-      <p>
-        Built a Cointegration Pairs Trading Model, incorporating the Johansen cointegration test, OLS hedge ratio, 
-        ATR‑based stop loss, target‑volatility leverage adjustment, and multi‑stage parameter optimization. In a 
-        6‑year backtest, the model achieved an annualized return of 6.27%, annualized volatility of 9.21%, a Sharpe 
-        Ratio of 0.68, a Sortino Ratio of 0.78, and a maximum drawdown of –8.67%, demonstrating risk control.
-      </p>
-      <p>
-        During out‑of‑sample testing, the model performed better than during training. It delivered an annualized 
-        return of 8.64%, a Sharpe Ratio of 0.80, while maintaining a stable maximum drawdown. This suggests the 
+        During out-of-sample testing, the model performed better than during training. It delivered an annualized 
+        return of 8.64%, a Sharpe Ratio of 0.80, while maintaining a stable maximum drawdown. This suggests the 
         model was not overfitted and performed better on unseen data.
       </p>
       <p>
-        Although the annualized return of 6.27% was lower than the Buy‑and‑Hold strategy (24.32%), the strategy’s 
-        annualized volatility was only 9.21% (vs 28.74%), and maximum drawdown was –8.67% (vs –40.54%), and full 
+        Although the annualized return of 6.27% was lower than the Buy-and-Hold strategy (24.32%), the strategy’s 
+        annualized volatility was only 9.21% (vs 28.74%), and maximum drawdown was -8.67% (vs -40.54%), and full 
         market neutrality. This implies that the strategy can generate alpha regardless of market direction, offering 
-        stable long‑term gains.
+        stable long-term gains.
       </p>
       <p>
+        這是我的 Cointegration‑Based Pairs Trading Model report:  
         <a class="pdf-button" 
            href="https://drive.google.com/file/d/1ZEI7BnvRLfd9WSh-Igyba2ojisQhTBeQ/view?usp=sharing" 
            target="_blank">
-          📄 View Cointegration‑Based Pairs Trading Model Report
+          View Cointegration-Based Pairs Trading Model Report
         </a>
       </p>
-
     </div>
 
   </div>
