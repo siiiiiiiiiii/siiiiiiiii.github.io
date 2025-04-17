@@ -179,7 +179,7 @@ layout: false
         <a class="pdf-button" 
            href="https://drive.google.com/file/d/1jb7uFNVDoQJ-iNd8m-ljK78geIbXG7_O/view?usp=sharing" 
            target="_blank">
-          📄 View Full LSTM with Attention for Log‑Return Prediction Report
+          📄 View Full Log‑Return Prediction Report
         </a>
       </p>
     </div>
