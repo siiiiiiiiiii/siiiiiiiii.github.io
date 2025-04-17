@@ -162,7 +162,7 @@ layout: false
         <a class="pdf-button" 
            href="https://drive.google.com/file/d/1ZEI7BnvRLfd9WSh-Igyba2ojisQhTBeQ/view?usp=sharing" 
            target="_blank">
-          📄 View Cointegration‑Based Pairs Trading Model Report
+          📄 View Pairs Trading Model Report
         </a>
       </p>
 
@@ -178,7 +178,7 @@ layout: false
         <a class="pdf-button" 
            href="https://drive.google.com/file/d/1jb7uFNVDoQJ-iNd8m-ljK78geIbXG7_O/view?usp=sharing" 
            target="_blank">
-          📄 View Full LSTM with Attention Report
+          📄 View Full Log-Return Prediction Report
         </a>
       </p>
 
@@ -192,7 +192,7 @@ layout: false
         <a class="pdf-button" 
            href="https://drive.google.com/file/d/1MHoymH-IMFhudPipTb7sVVEVhxXZdu4h/view?usp=sharing" 
            target="_blank">
-          📄 View Full Data‑Driven Investment Analysis Report
+          📄 View Full Analysis Report
         </a>
       </p>
     </div>
