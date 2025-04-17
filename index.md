@@ -131,7 +131,7 @@ layout: false
         <a class="pdf-button" 
            href="https://drive.google.com/file/d/11gKLdVnUSWhS5Hmr_qq_7RQm1dtSxJ-W/view?usp=sharing" 
            target="_blank">
-          📄 View Full Investment Report (Google Drive)
+          📄 View Full Investment Report
         </a>
       </p>
     </div>
