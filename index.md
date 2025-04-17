@@ -113,8 +113,8 @@ layout: false
 
     <!-- Technical & Investment Projects -->
     <div class="content">
-      <h2>Technical & Investment Projects</h2>
-      <p class="project-title">1: Self‑Initiated Investment & Portfolio Management</p>
+      <h2>1. Technical & Investment Projects</h2>
+      <p class="project-title">1.1: Self‑Initiated Investment & Portfolio Management</p>
       <p>
         I began investing in my first year, using money‑weighted return (MWR) as my performance metric. 
         I achieved a 9% return in the first year and improved to 20% in the second. In the third year, 
