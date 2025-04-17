@@ -131,19 +131,21 @@ layout: false
         <a class="pdf-button" 
            href="https://drive.google.com/file/d/11gKLdVnUSWhS5Hmr_qq_7RQm1dtSxJ-W/view?usp=sharing" 
            target="_blank">
-          📄 View Full Investment Report
+          📄 View Full Investment Report (Google Drive)
         </a>
       </p>
     </div>
 
-    <!-- New Section: Quantitative Trading -->
+    <!-- Quantitative Trading Section -->
     <div class="content">
-      <h2>2. Quantitative Trading & Data-Driven Models</h2>
-      <p class="project-title">2.1: Cointegration-Based Pairs Trading Model</p>
+      <h2>2. Quantitative Trading & Data‑Driven Models</h2>
+
+      <!-- 2.1 Pairs Trading -->
+      <p class="project-title">2.1: Cointegration‑Based Pairs Trading Model</p>
       <p>
         Built a Cointegration Pairs Trading Model, incorporating Johansen cointegration test, OLS hedge ratio, 
         ATR-based stop loss, target volatility leverage adjustment, and multi-stage parameter optimization. 
-        In a 6-year backtest, the model achieved an annualized return of 6.27%, annualized volatility of 9.21%, 
+        In a 6‑year backtest, the model achieved an annualized return of 6.27%, annualized volatility of 9.21%, 
         a Sharpe Ratio of 0.68, a Sortino Ratio of 0.78, and a maximum drawdown of -8.67%, demonstrating risk control.
       </p>
       <p>
@@ -152,16 +154,32 @@ layout: false
         model was not overfitted and performed better on unseen data.
       </p>
       <p>
-        Although the annualized return of 6.27% was lower than the Buy-and-Hold strategy (24.32%), the strategy’s 
+        Although the annualized return of 6.27% was lower than the Buy‑and‑Hold strategy (24.32%), the strategy’s 
         annualized volatility was only 9.21% (vs 28.74%), and maximum drawdown was -8.67% (vs -40.54%), and full 
         market neutrality. This implies that the strategy can generate alpha regardless of market direction, offering 
-        stable long-term gains.
+        stable long‑term gains.
       </p>
       <p>
         <a class="pdf-button" 
            href="https://drive.google.com/file/d/1ZEI7BnvRLfd9WSh-Igyba2ojisQhTBeQ/view?usp=sharing" 
            target="_blank">
-          📄 View full Cointegration-Based Pairs Trading Model Report
+          📄 View Cointegration‑Based Pairs Trading Model Report
+        </a>
+      </p>
+
+      <!-- 2.2 LSTM with Attention -->
+      <p class="project-title">2.2: LSTM with Attention for Log‑Return Prediction</p>
+      <p>
+        A financial time‑series forecasting model was built using LSTM with an Attention mechanism. It converged 
+        stably within 100 training epochs with no obvious signs of overfitting, as training and validation losses 
+        closely overlapped throughout. On the test set, it achieved MAE = 0.0127 and RMSE = 0.0176, significantly 
+        outperforming the Naive Baseline (RMSE = 0.0248), demonstrating high accuracy.
+      </p>
+      <p>
+        <a class="pdf-button" 
+           href="https://drive.google.com/file/d/1jb7uFNVDoQJ-iNd8m-ljK78geIbXG7_O/view?usp=sharing" 
+           target="_blank">
+          📄 View Full LSTM with Attention for Log‑Return Prediction Report
         </a>
       </p>
     </div>
