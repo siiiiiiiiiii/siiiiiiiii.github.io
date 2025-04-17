@@ -163,7 +163,7 @@ layout: false
         <a class="pdf-button" 
            href="https://drive.google.com/file/d/1ZEI7BnvRLfd9WSh-Igyba2ojisQhTBeQ/view?usp=sharing" 
            target="_blank">
-          📄 View Cointegration‑Based Pairs Trading Model Report
+          📄 View Pairs Trading Model Report
         </a>
       </p>
 
