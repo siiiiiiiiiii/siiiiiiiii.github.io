@@ -101,7 +101,7 @@ layout: false
 
     <!-- Side Projects -->
     <div class="content">
-      <h2 class="red-title">Side Projects</h2>
+      <h2>Side Projects</h2>
 
       <!-- 1. Self‑Initiated Investment & Portfolio Management -->
       <h2>1. Self‑Initiated Investment & Portfolio Management</h2>
