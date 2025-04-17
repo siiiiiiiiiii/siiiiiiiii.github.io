@@ -111,7 +111,7 @@ layout: false
       </p>
     </div>
 
-    <!-- Technical & Investment Projects -->
+    <!-- Side Projects -->
     <div class="content">
       <h2>1. Technical & Investment Projects</h2>
       <p class="project-title">1.1: Self‑Initiated Investment & Portfolio Management</p>
