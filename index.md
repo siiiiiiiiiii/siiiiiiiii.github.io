@@ -66,7 +66,7 @@ layout: false
       <p>As a FinTech student, I’ve built projects like a pairs trading model, an LSTM + attention forecasting system, and a cryptocurrency (SiuToken). I’ve managed HKD 320,000 in real capital with consistent gains, limiting this year’s drawdown to –3.99% versus the S&P 500’s –8.25%.</p>
       <p>I'm good at using open-source tools and AI to quickly build and test strategies. I review all my code myself and include reports with performance analysis.</p>
       <p>Instead of doing report work at a large firm, I’m looking for a role—paid or unpaid—where I can be directly involved in strategy development and real-world application. I'm open to starting unpaid, and if my work adds value, we can discuss compensation or a long-term role! For me, real experience matters more than pay.</p>
-       <p>All projects are open‑sourced on <a href="https://github.com/siiiiiiiiiii" target="_blank">GitHub</a> and on my <a href="https://siiiiiiiiiii.github.io/" target="_blank">personal website</a>.</p>
+       <p>All projects are open‑sourced on <a href="https://github.com/siiiiiiiiiii" target="_blank">GitHub</a> and on my <a href="https://siiiiiiiiiii.github.io/siiiiiiiii.github.io/" target="_blank">personal website</a>.</p>
     </div>
 
     <!-- Academic Growth -->
