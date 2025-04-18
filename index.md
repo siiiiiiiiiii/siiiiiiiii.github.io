@@ -56,8 +56,14 @@ layout: false
     <!-- About Me -->
     <div class="content">
       <h2>About Me</h2>
-      <p>I am a FinTech student. Faced with the disconnect between coursework and real‑world application, as well as a lack of resources and support, I chose to push beyond limitations through self‑learning. I independently completed side projects in finance and blockchain — from portfolio management to quantitative model development, and even the development of the DAO and cryptocurrency — all of which I personally built and open‑sourced on GitHub and my personal website. My portfolio peaked at HKD 320,000, spanning both U.S. and Chinese markets with full responsibility for risk control and execution.</p>
-      <p>I firmly believe that hedge funds don’t need passive learners — they need individuals who can solve problems independently, keep improving, and forge a path even when working alone. I am eager to grow through hands‑on experience and turn my abilities into tangible value for a team.</p>
+
+      <p>As a student majoring in FinTech, I have self‑studied and completed side projects such as a Pairs Trading Model, an LSTM + Attention prediction model, and the development of the “SiuToken” (a cryptocurrency). I have also managed assets up to HKD 320,000, consistently generating profits. Despite the market volatility this year, I managed to limit my losses to –3.99%, compared to the S&P 500’s decline of 8.25%.</p>
+
+      <p>I excel at using open‑source tools and AI to accelerate the prototyping and testing of strategies. Every line of code is personally verified by me, accompanied by written reports and performance analysis. I believe true ability lies not in grades, but in the integration of financial logic and technical skills to create viable investment strategies.</p>
+
+      <p>Rather than assisting in report writing at a large firm, I am more eager for an opportunity—paid or unpaid—that allows me to be deeply involved in strategy development and real‑world application. I’m willing to start without pay, just for the chance to truly learn and contribute. If later on you find my work valuable, then we can discuss compensation or even a spot on the team. To me, opportunity is more important than salary—real practice is the best proof of capability.</p>
+
+      <p>All projects are open‑sourced on GitHub (<a href="https://github.com/siiiiiiiiiii" target="_blank">https://github.com/siiiiiiiiiii</a>) and on my personal website (<a href="https://siiiiiiiiiii.github.io/siiiiiiiii.github.io/" target="_blank">https://siiiiiiiiiii.github.io/siiiiiiiii.github.io/</a>).</p>
     </div>
 
     <!-- Personal Growth -->
