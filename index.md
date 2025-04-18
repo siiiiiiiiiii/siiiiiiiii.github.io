@@ -83,7 +83,7 @@ layout: false
     <!-- About Me -->
     <div class="content">
       <h2>About Me</h2>
-      <p>I am a FinTech student with a passion for hedge funds. Faced with the disconnect between coursework and real‑world application, as well as a lack of resources and support, I chose to push beyond limitations through self‑learning. I independently completed multiple projects in finance and blockchain — from portfolio management to quantitative model development, and even DAO and cryptocurrency design — all of which I personally built and open‑sourced on GitHub and my personal website. At one point, I managed assets totaling HKD 320,000, spanning both U.S. and Chinese markets with full responsibility for risk control and execution.</p>
+      <p>I am a FinTech student with a passion for hedge funds. Faced with the disconnect between coursework and real‑world application, as well as a lack of resources and support, I chose to push beyond limitations through self‑learning. I independently completed side projects in finance and blockchain — from portfolio management to quantitative model development, and even DAO and cryptocurrency design — all of which I personally built and open‑sourced on GitHub and my personal website. At one point, I managed assets totaling HKD 320,000, spanning both U.S. and Chinese markets with full responsibility for risk control and execution.</p>
       <p>I firmly believe that hedge funds don’t need passive learners — they need individuals who can solve problems independently, keep improving, and forge a path even when working alone. I am eager to grow through hands‑on experience and turn my abilities into tangible value for a team.</p>
     </div>
 
@@ -107,7 +107,7 @@ layout: false
       <h2>1. Self‑Initiated Investment & Portfolio Management</h2>
       <p>I began investing in my first year, using money‑weighted return (MWR) as my performance metric. I achieved a 9% return in the first year and improved to 20% in the second. In the third year, I expanded into both U.S. and Chinese markets, allocating capital to recession‑resistant assets, limiting each stock to 1–5% of total portfolio value to mitigate macroeconomic volatility. As of April 15, I successfully limited this year’s drawdown to –3.99%, compared to S&P 500 (–8.25%), NASDAQ (–12.88%), and Nikkei (–14.1%). My portfolio peaked at HKD 320,000, including a six‑figure sum entrusted solely to me by my father — a strong vote of confidence in my asset‑management skills, risk‑control awareness, and sense of fiduciary responsibility.</p>
       <p>I firmly believe that great long‑term investors don’t rely on market predictions — they rely on asset allocation to weather the storm.</p>
-      <p><a class="pdf-button" href="https://drive.google.com/file/d/11gKLdVnUSWhS5Hmr_qq_7RQm1dtSxJ-W/view?usp=sharing" target="_blank">📄 View Full Investment Report (Google Drive)</a></p>
+      <p><a class="pdf-button" href="https://drive.google.com/file/d/11gKLdVnUSWhS5Hmr_qq_7RQm1dtSxJ-W/view?usp=sharing" target="_blank">📄 View Full Investment Report</a></p>
     </div>
 
     <!-- Quantitative Trading Section -->
