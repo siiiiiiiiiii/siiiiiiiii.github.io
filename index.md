@@ -44,13 +44,14 @@ layout: false
 <body>
   <div class="container">
 
+    
     <!-- 個人資訊 -->
     <div class="profile-header">
       <h1>Siu King Sum Personal Website</h1>
-      <p><strong>Email:</strong> <a href="mailto:Kingstonsiu20040801@gmail.com">Kingstonsiu20040801@gmail.com</a></p>
-      <p><strong>Phone:</strong> 5703 0675</p>
-      <p><strong>GitHub:</strong> <a href="https://github.com/siiiiiiiiiii" target="_blank">github.com/siiiiiiiiiii</a></p>
-      <p><strong>College:</strong> Hong Kong Shue Yan University (Year 3)</p>
+      <p class="info"><strong>Email:</strong> <a href="mailto:Kingstonsiu20040801@gmail.com">Kingstonsiu20040801@gmail.com</a></p>
+      <p class="info"><strong>Phone:</strong> +852 5703 0675</p>
+      <p class="info"><strong>GitHub:</strong> <a href="https://github.com/siiiiiiiiiii" target="_blank">github.com/siiiiiiiiiii</a></p>
+      <p class="info"><strong>College:</strong> Hong Kong Shue Yan University (Year 3)</p>
     </div>
 
     <!-- About Me -->
