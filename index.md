@@ -64,7 +64,7 @@ layout: false
     <div class="content">
       <h2>About Me</h2>
 
-      <p>simplify: As a FinTech student, I’ve built projects like a pairs trading model, an LSTM + attention forecasting system, and a cryptocurrency (SiuToken). I’ve managed HKD 320,000 in real capital with consistent gains, limiting this year’s drawdown to –3.99% versus the S&P 500’s –8.25%.</p>
+      <p>As a FinTech student, I’ve built projects like a pairs trading model, an LSTM + attention forecasting system, and a cryptocurrency (SiuToken). I’ve managed HKD 320,000 in real capital with consistent gains, limiting this year’s drawdown to –3.99% versus the S&P 500’s –8.25%.</p>
 
       <p>I'm good at using open-source tools and AI to quickly build and test strategies. I review all my code myself and include reports with performance analysis.</p>
 
