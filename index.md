@@ -56,7 +56,7 @@ layout: false
     <!-- About Me -->
     <div class="content">
       <h2>About Me</h2>
-      <p>I am a FinTech student. Faced with the disconnect between coursework and real‑world application, as well as a lack of resources and support, I chose to push beyond limitations through self‑learning. I independently completed side projects in finance and blockchain — from portfolio management to quantitative model development, and even the development of the DAO and cryptocurrency — all of which I personally built and open‑sourced on GitHub and my personal website. At one point, I managed assets totaling HKD 320,000, spanning both U.S. and Chinese markets with full responsibility for risk control and execution.</p>
+      <p>I am a FinTech student. Faced with the disconnect between coursework and real‑world application, as well as a lack of resources and support, I chose to push beyond limitations through self‑learning. I independently completed side projects in finance and blockchain — from portfolio management to quantitative model development, and even the development of the DAO and cryptocurrency — all of which I personally built and open‑sourced on GitHub and my personal website. My portfolio peaked at HKD 320,000, spanning both U.S. and Chinese markets with full responsibility for risk control and execution.</p>
       <p>I firmly believe that hedge funds don’t need passive learners — they need individuals who can solve problems independently, keep improving, and forge a path even when working alone. I am eager to grow through hands‑on experience and turn my abilities into tangible value for a team.</p>
     </div>
 
