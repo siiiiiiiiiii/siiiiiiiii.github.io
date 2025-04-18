@@ -63,7 +63,7 @@ layout: false
     <!-- Personal Growth -->
     <div class="content">
       <h2>Personal Growth</h2>
-      <p>In my first year, I struggled with programming and mathematics, resulting in a GPA of only 2.5. Since then, I have raised it to above 3.7+, achieving A grades in all core technology courses. More than grades, it is my continuous self‑improvement and real‑world accomplishments — including managing a HKD 320,000 portfolio and completing multiple finance and blockchain projects — that truly reflect my determination.</p>
+      <p>In my first year, I struggled with programming and mathematics, resulting in a GPA of only 2.5. Since then, I have raised it to above 3.7+, achieving A grades in all core technology courses.</p>
     </div>
 
     <!-- Certifications -->
