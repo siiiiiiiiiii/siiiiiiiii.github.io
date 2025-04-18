@@ -23,8 +23,15 @@ layout: false
       padding-bottom: 20px;
       margin-bottom: 20px;
     }
-    .profile-header h1 { font-size: 36px; margin: 0; }
-    .profile-header p  { font-size: 18px; margin: 5px 0; }
+    .profile-header h1 {
+      font-size: 36px;
+      margin: 0 0 20px; /* 下方留 20px 空白 */
+    }
+    .profile-header .info {
+      font-size: 18px;
+      margin: 8px 0;
+      line-height: 1.4;
+    }
 
     /* 內容排版 */
     .content       { font-size: 20px; line-height: 1.8; margin-bottom: 30px; }
@@ -44,7 +51,6 @@ layout: false
 <body>
   <div class="container">
 
-    
     <!-- 個人資訊 -->
     <div class="profile-header">
       <h1>Siu King Sum Personal Website</h1>
