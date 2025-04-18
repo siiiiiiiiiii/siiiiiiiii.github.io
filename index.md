@@ -128,7 +128,7 @@ layout: false
     <div class="content">
       <h2>4. Other GitHub Projects</h2>
       <p class="project-title">4.1: TradingView Modeling & Early Overfitting Awareness</p>
-      <p>In the early stages of self‑learning quantitative trading, I used TradingView for model development. It was my first experience with overfitting, which made me realize that the true value of a model lies in its ability to generalize to future data. Since then, preventing overfitting has always been a core principle in my work.</p>
+      <p>My early TradingView models overfit, teaching me that generalization matters most. Since then, I always prioritize avoiding overfitting.</p>
       <p><a class="pdf-button" href="https://github.com/siiiiiiiiiii/pine-scripts" target="_blank">🔗 View Pine‑Script Models on GitHub</a></p>
     </div>
 
