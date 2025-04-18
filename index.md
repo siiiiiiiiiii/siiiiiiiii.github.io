@@ -108,18 +108,22 @@ layout: false
       <p><a class="pdf-button" href="https://drive.google.com/file/d/1ZEI7BnvRLfd9WSh-Igyba2ojisQhTBeQ/view?usp=sharing" target="_blank">📄 View Pairs Trading Report</a></p>
 
       <p class="project-title">2.2: LSTM with Attention for Log‑Return Prediction</p>
-      <p>Developed a financial time‑series forecasting model using LSTM with an Attention mechanism …</p>
+      <p>Developed a financial time‑series forecasting model using LSTM with an Attention mechanism. It converged 
+        stably within 100 epochs, with training and validation losses closely overlapping — no sign of over‑fitting. 
+        On the test set, it achieved MAE = 0.0127 and RMSE = 0.0176, significantly outperforming the Naive Baseline 
+        (RMSE = 0.0248).</p>
       <p><a class="pdf-button" href="https://drive.google.com/file/d/1jb7uFNVDoQJ-iNd8m-ljK78geIbXG7_O/view?usp=sharing" target="_blank">📄 View LSTM Report</a></p>
 
       <p class="project-title">2.3: Data‑Driven Investment Analysis</p>
-      <p>Leveraged Python for data‑driven investment analysis to minimize emotional decision‑making …</p>
+      <p>Leveraged Python for data‑driven investment analysis to minimize emotional decision‑making. Applications 
+        include valuation comparisons between U.S. and Chinese markets and market sentiment analysis.</p>
       <p><a class="pdf-button" href="https://drive.google.com/file/d/1MHoymH-IMFhudPipTb7sVVEVhxXZdu4h/view?usp=sharing" target="_blank">📄 View Analysis Report</a></p>
     </div>
 
     <!-- Blockchain & DAO -->
     <div class="content">
       <h2>3. Blockchain & DAO Smart Contract</h2>
-      <p>Developed the “SiuToken” smart contract on the Sepolia testnet with features such as token locking, airdrops, dynamic fees, and DAO voting. Multiple test rounds were conducted via Remix IDE and MetaMask.</p>
+      <p>Developed the “SiuToken” smart contract (cryptocurrency) on the Sepolia testnet, implementing features including token locking, airdrops, dynamic transaction fees, and DAO voting. Conducted multiple rounds of testing using Remix IDE and MetaMask, demonstrating comprehensive smart contract development experience.</p>
       <p><a class="pdf-button" href="https://drive.google.com/file/d/1bvv8uCyk2G1N2vT7kfU-ygWDWt5QL-fZ/view?usp=sharing" target="_blank">📄 View SiuToken & SiuDAO Report</a></p>
     </div>
 
@@ -128,7 +132,7 @@ layout: false
       <h2>4. Other GitHub Projects</h2>
 
       <p class="project-title">4.1: TradingView Modeling & Early Overfitting Awareness</p>
-      <p>In the early stages of self‑learning quantitative trading, I used TradingView for model development...</p>
+      <p>In the early stages of self‑learning quantitative trading, I used TradingView for model development. It was my first experience with overfitting, which made me realize that the true value of a model lies in its ability to generalize to future data. Since then, preventing overfitting has always been a core principle in my work.</p>
       <p><a class="pdf-button" href="https://github.com/siiiiiiiiiii/pine-scripts" target="_blank">🔗 View Pine‑Script Models on GitHub</a></p>
     </div>
 
