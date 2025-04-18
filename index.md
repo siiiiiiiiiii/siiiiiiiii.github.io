@@ -117,11 +117,11 @@ layout: false
       <p><a class="pdf-button" href="https://drive.google.com/file/d/1MHoymH-IMFhudPipTb7sVVEVhxXZdu4h/view?usp=sharing" target="_blank">📄 View Analysis Report</a></p>
     </div>
 
-    <!-- Blockchain & DAO Smart Contract -->
+     <!-- Blockchain & DAO -->
     <div class="content">
       <h2>3. Blockchain & DAO Smart Contract</h2>
-      <p>Developed the “SiuToken” smart contract on the Sepolia testnet with features such as token locking, airdrops, dynamic fees, and DAO voting. Multiple test rounds were conducted via Remix IDE and MetaMask.</p>
-      <p><a class="pdf-button" https://drive.google.com/file/d/1gCRBdOu3QW_Bby50pN-LpmSbK_Axqk83/view?usp=sharing" target="_blank">📄 View SiuToken and SiuDAO Report</a></p>
+      <p>Developed the “SiuToken” (cryptocurrency) on the Sepolia testnet, features including token locking, airdrops, dynamic transaction fees, and DAO voting. Conducted multiple rounds of testing using Remix IDE and MetaMask, demonstrating smart contract development experience.</p>
+      <p><a class="pdf-button" href="https://drive.google.com/file/d/1gCRBdOu3QW_Bby50pN-LpmSbK_Axqk83/view?usp=sharing" target="_blank">📄 View SiuToken & SiuDAO Report</a></p>
     </div>
 
     <!-- Other GitHub Projects -->
