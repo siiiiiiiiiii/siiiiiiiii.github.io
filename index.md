@@ -129,7 +129,7 @@ layout: false
       <h2>4. Other GitHub Projects</h2>
       <p class="project-title">4.1: TradingView Modeling & Early Overfitting Awareness</p>
       <p>My early TradingView models overfit, teaching me that generalization matters most. Since then, I always prioritize avoiding overfitting.</p>
-      <p><a class="pdf-button" href="https://github.com/siiiiiiiiiii/pine-scripts" target="_blank">🔗 View Pine‑Script Models on GitHub</a></p>
+      <p><a class="pdf-button" href="https://github.com/siiiiiiiiiii/pine-scripts" target="_blank">🔗 View Pine‑Script on GitHub</a></p>
     </div>
 
   </div>
