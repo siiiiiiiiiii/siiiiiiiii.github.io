@@ -101,7 +101,10 @@ layout: false
       <h2>2. Quantitative Trading & Data‑Driven Models</h2>
 
       <p class="project-title">2.1: Cointegration‑Based Pairs Trading Model</p>
-      <p>Built a Cointegration Pairs Trading Model, incorporating Johansen cointegration test, OLS hedge ratio, ATR‑based stop loss, target volatility leverage adjustment, and multi‑stage parameter optimization …</p>
+      <p>Built a Cointegration Pairs Trading Model, incorporating Johansen cointegration test, OLS hedge ratio, 
+        ATR‑based stop loss, target volatility leverage adjustment, and multi‑stage parameter optimization. 
+        In a 6‑year backtest, the model achieved an annualized return of 6.27%, annualized volatility of 9.21%, 
+        a Sharpe Ratio of 0.68, a Sortino Ratio of 0.78, and a maximum drawdown of –8.67%, demonstrating risk control.</p>
       <p><a class="pdf-button" href="https://drive.google.com/file/d/1ZEI7BnvRLfd9WSh-Igyba2ojisQhTBeQ/view?usp=sharing" target="_blank">📄 View Pairs Trading Report</a></p>
 
       <p class="project-title">2.2: LSTM with Attention for Log‑Return Prediction</p>
