@@ -64,19 +64,19 @@ layout: false
     <div class="content">
       <h2>About Me</h2>
 
-      <p>As a student majoring in FinTech, I have self‑studied and completed side projects such as a Pairs Trading Model, an LSTM + Attention prediction model, and the development of the “SiuToken” (a cryptocurrency). I have also managed assets up to HKD 320,000, consistently generating profits. Despite the market volatility this year, I managed to limit my losses to –3.99%, compared to the S&P 500’s decline of 8.25%.</p>
+      <p>simplify: As a FinTech student, I’ve built projects like a pairs trading model, an LSTM + attention forecasting system, and a cryptocurrency (SiuToken). I’ve managed HKD 320,000 in real capital with consistent gains, limiting this year’s drawdown to –3.99% versus the S&P 500’s –8.25%.</p>
 
-      <p>I excel at using open‑source tools and AI to accelerate the prototyping and testing of strategies. Every line of code is personally verified by me, accompanied by written reports and performance analysis. I believe true ability lies not in grades, but in the integration of financial logic and technical skills to create viable investment strategies.</p>
+      <p>I'm good at using open-source tools and AI to quickly build and test strategies. I review all my code myself and include reports with performance analysis.</p>
 
-      <p>Rather than assisting in report writing at a large firm, I am more eager for an opportunity—paid or unpaid—that allows me to be deeply involved in strategy development and real‑world application. I’m willing to start without pay, just for the chance to truly learn and contribute. If later on you find my work valuable, then we can discuss compensation or even a spot on the team. To me, opportunity is more important than salary—real practice is the best proof of capability.</p>
+      <p>Instead of doing report work at a large firm, I’m looking for a role—paid or unpaid—where I can be directly involved in strategy development and real-world application. I'm open to starting unpaid, and if my work adds value, we can discuss compensation or a long-term role! For me, real experience matters more than pay.</p>
 
       <p>All projects are open‑sourced on GitHub (<a href="https://github.com/siiiiiiiiiii" target="_blank">https://github.com/siiiiiiiiiii</a>) and on my personal website (<a href="https://siiiiiiiiiii.github.io/siiiiiiiii.github.io/" target="_blank">https://siiiiiiiiiii.github.io/siiiiiiiii.github.io/</a>).</p>
     </div>
 
     <!-- Personal Growth -->
     <div class="content">
-      <h2>Personal Growth</h2>
-      <p>In my first year, I struggled with programming and mathematics, resulting in a GPA of only 2.5. Since then, I have raised it to above 3.7+, achieving A grades in all core technology courses.</p>
+      <h2>Academic Growth</h2>
+      <p>I struggled with programming and math during my first year, resulting in a GPA of 2.5. Since then, I’ve raised it above 3.7, earning straight A’s in core tech courses.</p>
     </div>
 
     <!-- Certifications -->
