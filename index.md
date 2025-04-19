@@ -102,7 +102,7 @@ layout: false
     <p><a class="pdf-button" href="https://drive.google.com/file/d/1MHoymH-IMFhudPipTb7sVVEVhxXZdu4h/view?usp=sharing" target="_blank">📄 View Analysis Report</a></p>
   </div>
 
-  <!-- Blockchain & DAO -->
+  <!-- Blockchain & DAO Smart Contract -->
   <div class="content">
     <h2>3. Blockchain & DAO Smart Contract</h2>
     <p>Developed the “SiuToken” (cryptocurrency) on the Sepolia testnet, features including token locking, airdrops, dynamic transaction fees, and DAO voting. Conducted multiple rounds of testing using Remix IDE and MetaMask, demonstrating smart contract development experience.</p>
@@ -120,13 +120,21 @@ layout: false
     <p class="project-title">4.2: Data Mining Model</p>
     <p>Built a data mining model for Amazon headphones and laptops. The decision tree achieved strong performance with an accuracy of 0.82, precision of 0.79, recall of 0.71, and an F1-score of 0.75.</p>
     <p><a class="pdf-button" href="https://drive.google.com/file/d/1l8AJyxC15KGzFU1iqbkTjp2ZIWRHNMOD/view?usp=sharing" target="_blank">📄 View Full Data Mining Report</a></p>
+
+    <p class="project-title">4.3: AAPL Stock Price Website</p>
+    <p>Built an AAPL stock price website with technical indicators and interactive features.</p>
+    <p><a class="pdf-button" href="https://github.com/siiiiiiiiiii/AAPL-stock-price-website" target="_blank">🔗 View on GitHub</a></p>
+
+    <p class="project-title">4.4: Website Development Experience</p>
+    <p>The website you are viewing right now was built by me personally.</p>
+    <p><a class="pdf-button" href="https://github.com/siiiiiiiiiii/siiiiiiiii.github.io" target="_blank">🔗 View on GitHub</a></p>
   </div>
 
   <!-- Kaggle -->
   <div class="content">
     <h2>5. Kaggle</h2>
-    <p>In the Titanic and House Prices competitions, I achieved 78.5% accuracy (ranked 2,300) and 0.12507 RMSE (ranked 643), respectively. After nearly 30 rounds of optimization, I realized that for small datasets, deeply understanding the data and crafting high-quality features is far more effective than blindly using complex neural networks or stacked models. This experience helped me develop a more pragmatic approach to machine learning.</p>
-    <p><a class="pdf-button" href="https://github.com/siiiiiiiiiii/kaggle-Titanic-and-House-Prices-competitions-" target="_blank">🔗 View on GitHub</a></p>
+    <p>In the Titanic and House Prices competitions, I achieved 78.5 % accuracy (ranked 2,300) and 0.12507 RMSE (ranked 643), respectively. After nearly 30 rounds of optimization, I realized that for small datasets, deeply understanding the data and crafting high-quality features is far more effective than blindly using complex neural networks or stacked models. This experience helped me develop a more pragmatic approach to machine learning.</p>
+    <p><a class="pdf-button" href="https://github.com/siiiiiiiiiii/kaggle-Titanic-and-House-Prices-competitions-" target="_blank">🔗 View on GitHub</a></p>
   </div>
 
 </div>
