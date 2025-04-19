@@ -3,7 +3,6 @@ title: "About Me"
 layout: false
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
