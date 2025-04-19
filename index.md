@@ -82,6 +82,25 @@ layout: false
   .pdf-button:hover {
     background: #024fa2;
   }
+  @media (max-width: 768px) {
+  .content {
+    font-size: 17px;
+    line-height: 1.8;
+    padding: 0 10px;
+  }
+
+  .content p {
+    margin-bottom: 16px;
+  }
+
+  .project-title {
+    font-size: 20px;
+  }
+
+  .profile-header h1 {
+    font-size: 28px;
+  }
+}
 </style>
 
 <nav style="position:sticky;top:0;background:#fff;border-bottom:1px solid #ddd;padding:12px 0;text-align:center;z-index:1000;">
