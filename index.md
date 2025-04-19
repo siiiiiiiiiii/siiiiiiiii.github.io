@@ -153,7 +153,7 @@ layout: false
 
 </div>
 <hr>
-<footer style="text-align:center; font-size:14px; color:#777; margin-top:40px;">
-  © 2025 Siu King Sum. All rights reserved. | Contact: Kingstonsiu20040801@gmail.com
+<footer style="text-align:center; font-size:12px; color:#777; margin-top:40px;">
+  © 2025 Siu King Sum. | Contact: Kingstonsiu20040801@gmail.com
 </footer>
 
