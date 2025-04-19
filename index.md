@@ -83,22 +83,36 @@ layout: false
     background: #024fa2;
   }
   @media (max-width: 768px) {
+  .container {
+    margin: 40px auto;
+    padding: 0 12px;
+  }
+
   .content {
-    font-size: 17px;
-    line-height: 1.8;
-    padding: 0 10px;
+    font-size: 16px;
+    line-height: 2.0;
+    margin-bottom: 40px;
   }
 
   .content p {
-    margin-bottom: 16px;
+    margin-bottom: 20px;
   }
 
+  .content h2,
   .project-title {
-    font-size: 20px;
+    margin: 24px 0 12px;
+  }
+
+  .pdf-button {
+    display: block;
+    width: 100%;
+    margin: 16px 0;
+    padding: 12px 0;
   }
 
   .profile-header h1 {
-    font-size: 28px;
+    font-size: 30px;
+    margin-bottom: 16px;
   }
 }
 </style>
