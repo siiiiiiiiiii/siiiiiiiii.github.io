@@ -54,7 +54,6 @@ layout: false
 <nav style="position:sticky;top:0;background:#fff;border-bottom:1px solid #ddd;padding:12px 0;text-align:center;z-index:1000;">
   <a href="#about" style="margin:0 16px;text-decoration:none;color:#0366d6;font-weight:500;">About</a>
   <a href="#projects" style="margin:0 16px;text-decoration:none;color:#0366d6;font-weight:500;">Projects</a>
-  <a href="#contact" style="margin:0 16px;text-decoration:none;color:#0366d6;font-weight:500;">Contact</a>
 </nav>
 
 <div class="container">
@@ -69,7 +68,7 @@ layout: false
   </div>
 
   <!-- About Me -->
-  <div class="content">
+  <div id="about" class="content">
     <h2>About Me</h2>
     <p>As a FinTech student, I’ve built projects like a pairs trading model, an LSTM + attention forecasting system, and a cryptocurrency (SiuToken). I’ve managed HKD 320,000 in real capital with consistent gains, limiting this year’s drawdown to –3.99 % versus the S&P 500’s –8.25 %.</p>
     <p>I'm good at using open‑source tools and AI to quickly build and test strategies. I review all my code myself and include reports with performance analysis.</p>
@@ -100,7 +99,7 @@ layout: false
   </div>
 
   <!-- Quantitative Trading & Data‑Driven Models -->
-  <div class="content">
+  <div id="projects" class="content">
     <h2>2. Quantitative Trading & Data‑Driven Models</h2>
 
     <!-- 2.1: Cointegration-Based Pairs Trading Model -->
