@@ -147,7 +147,7 @@ layout: false
   <!-- Kaggle -->
   <div class="content">
     <h2>5. Kaggle</h2>
-    <p>In the Titanic and House Prices competitions, I achieved 78.5 % accuracy (ranked 2,300) and 0.12507 RMSE (ranked 643), respectively. After nearly 30 rounds of optimization, I realized that for small datasets, deeply understanding the data and crafting high‑quality features is far more effective than blindly using complex neural networks or stacked models. This experience helped me develop a more pragmatic approach to machine learning.</p>
+    <p>In the Titanic and House Prices competitions, I achieved 78.5 % accuracy (ranked 2,300) and 0.12507 RMSE (ranked 643), respectively. I realized that for small datasets, deeply understanding the data and crafting high‑quality features is more effective than blindly using complex neural networks or stacked models. This experience helped me develop a more pragmatic approach to machine learning.</p>
     <p><a class="pdf-button" href="https://github.com/siiiiiiiiiii/kaggle-Titanic-and-House-Prices-competitions-" target="_blank">🔗 View on GitHub</a></p>
   </div>
 
