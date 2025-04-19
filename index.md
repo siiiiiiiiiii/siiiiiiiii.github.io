@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-layout: false
+layout: false   # 若你有 default 版型，可改回 default
 ---
 
 <style>
@@ -10,16 +10,14 @@ layout: false
   }
   .container       { max-width: 720px; margin: 60px auto; padding: 0 20px; }
   .profile-header  { text-align: center; border-bottom: 2px solid #ccc; padding-bottom: 20px; margin-bottom: 20px; }
-  .profile-header h1     { font-size: 36px; margin: 0 0 20px; }
-  .profile-header .info  { font-size: 18px; margin: 8px 0; line-height: 1.4; }
+  .profile-header h1    { font-size: 36px; margin: 0 0 20px; }
+  .profile-header .info { font-size: 18px; margin: 8px 0; line-height: 1.4; }
 
-  /* 內容排版 */
   .content       { font-size: 20px; line-height: 1.8; margin-bottom: 30px; }
   .content h2    { color:#111; margin-top:40px; text-align:left; }
   .project-title { font-size:22px; font-weight:bold; color:#111; margin-bottom:10px; text-align:left; }
   .content p     { text-align: justify; }
 
-  /* 按鈕樣式 */
   .pdf-button {
     display:inline-block; padding:10px 20px; background:#0366d6; color:#fff;
     border-radius:6px; text-decoration:none; font-weight:bold; margin-top:10px;
@@ -41,22 +39,22 @@ layout: false
   <!-- About Me -->
   <div class="content">
     <h2>About Me</h2>
-    <p>As a FinTech student …</p>
-    <p>I'm good at using open‑source tools …</p>
-    <p>Instead of doing report work …</p>
-    <p>All projects are open‑sourced on <a href="https://github.com/siiiiiiiiiii" target="_blank">GitHub</a> …</p>
+    <p>As a FinTech student, I’ve built projects like a pairs trading model, an LSTM + attention forecasting system, and a cryptocurrency (SiuToken). I’ve managed HKD 320,000 in real capital with consistent gains, limiting this year’s drawdown to –3.99 % versus the S&P 500’s –8.25 %.</p>
+    <p>I'm good at using open‑source tools and AI to quickly build and test strategies. I review all my code myself and include reports with performance analysis.</p>
+    <p>Instead of doing report work at a large firm, I’m looking for a role—paid or unpaid—where I can be directly involved in strategy development and real‑world application…</p>
+    <p>All projects are open‑sourced on <a href="https://github.com/siiiiiiiiiii" target="_blank">GitHub</a> and on my <a href="https://siiiiiiiiiii.github.io/siiiiiiiii.github.io/" target="_blank">personal website</a>.</p>
   </div>
 
   <!-- Academic Growth -->
   <div class="content">
     <h2>Academic Growth</h2>
-    <p>I struggled with programming and math …</p>
+    <p>I struggled with programming and math during my first year, resulting in a GPA of 2.5. Since then, I’ve raised it above 3.7, earning straight A’s in core tech courses.</p>
   </div>
 
   <!-- Certifications -->
   <div class="content">
     <h2>Certifications</h2>
-    <p>IELTS Overall Band 6.5 …</p>
+    <p>IELTS Overall Band 6.5 (Listening 7, Reading 7, Writing 6.5, Speaking 6); currently focusing on improving speaking; Passed HKSI Paper 1</p>
   </div>
 
   <!-- Side Projects -->
@@ -64,11 +62,11 @@ layout: false
     <h2>Side Projects</h2>
 
     <h2>1. Self‑Initiated Investment & Portfolio Management</h2>
-    <p>I began investing in my first year …</p>
+    <p>I began investing in my first year … (保留原文段落)</p>
     <p><a class="pdf-button" href="https://drive.google.com/file/d/11gKLdVnUSWhS5Hmr_qq_7RQm1dtSxJ-W/view?usp=sharing" target="_blank">📄 View Investment Report</a></p>
   </div>
 
-  <!-- Quantitative Trading & Data-Driven Models -->
+  <!-- Quantitative Trading & Data‑Driven Models -->
   <div class="content">
     <h2>2. Quantitative Trading & Data‑Driven Models</h2>
 
@@ -85,11 +83,11 @@ layout: false
     <p><a class="pdf-button" href="https://drive.google.com/file/d/1MHoymH-IMFhudPipTb7sVVEVhxXZdu4h/view?usp=sharing" target="_blank">📄 View Analysis Report</a></p>
   </div>
 
-  <!-- Blockchain & DAO Smart Contract -->
+  <!-- Blockchain & DAO -->
   <div class="content">
     <h2>3. Blockchain & DAO Smart Contract</h2>
-    <p>Developed the “SiuToken” smart contract on Sepolia …</p>
-    <p><a class="pdf-button" href="https://drive.google.com/file/d/1bvv8uCyk2G1N2vT7kfU-ygWDWt5QL-fZ/view?usp=sharing" target="_blank">📄 View SiuToken & SiuDAO Report</a></p>
+    <p>Developed the “SiuToken” smart contract …</p>
+    <p><a class="pdf-button" href="https://drive.google.com/file/d/1kzNSA65TYckU7EwFObXPmiH8538xVpIG/view?usp=sharing" target="_blank">📄 View SiuToken & SiuDAO Report</a></p>
   </div>
 
   <!-- Other GitHub Projects -->
@@ -101,11 +99,11 @@ layout: false
     <p><a class="pdf-button" href="https://github.com/siiiiiiiiiii/pine-scripts" target="_blank">🔗 View Pine‑Script on GitHub</a></p>
 
     <p class="project-title">4.2: Data Mining Model</p>
-    <p>Built a data‑mining model for Amazon headphones and laptops. The decision tree achieved 0.82 accuracy, 0.79 precision, 0.71 recall and 0.75 F1‑score.</p>
+    <p>Built a data‑mining model for Amazon headphones and laptops. Decision‑tree results: accuracy 0.82, precision 0.79, recall 0.71, F1 0.75.</p>
     <p><a class="pdf-button" href="https://drive.google.com/file/d/1l8AJyxC15KGzFU1iqbkTjp2ZIWRHNMOD/view?usp=sharing" target="_blank">📄 View Full Data Mining Report</a></p>
 
     <p class="project-title">4.3: AAPL Stock Price Website</p>
-    <p>Built an AAPL stock‑price website with technical indicators and interactive charts.</p>
+    <p>Built an AAPL stock‑price website with technical indicators and interactive features.</p>
     <p><a class="pdf-button" href="https://github.com/siiiiiiiiiii/AAPL-stock-price-website" target="_blank">🔗 View on GitHub</a></p>
 
     <p class="project-title">4.4: Website Development Experience</p>
@@ -116,7 +114,7 @@ layout: false
   <!-- Kaggle -->
   <div class="content">
     <h2>5. Kaggle</h2>
-    <p>In the Titanic and House Prices competitions, I achieved 78.5 % accuracy (rank 2 300) and 0.12507 RMSE (rank 643). After ~30 rounds of optimisation, I learned that deeply understanding the data and crafting high‑quality features beats blindly stacking complex models.</p>
+    <p>In the Titanic and House Prices competitions, I achieved 78.5 % accuracy (rank 2 300) and 0.12507 RMSE (rank 643). After ~30 rounds of optimisation, I learned that deep data understanding and feature engineering often beat stacking complex models.</p>
     <p><a class="pdf-button" href="https://github.com/siiiiiiiiiii/kaggle-Titanic-and-House-Prices-competitions-" target="_blank">🔗 View on GitHub</a></p>
   </div>
 
