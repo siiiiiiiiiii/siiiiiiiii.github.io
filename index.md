@@ -83,55 +83,23 @@ layout: false
     background: #024fa2;
   }
   @media (max-width: 768px) {
-  .container {
-    margin: 40px auto;
-    padding: 0 16px;
-  }
+  .container       { margin: 40px auto !important; padding: 0 12px !important; }
 
-  .profile-header {
-    padding: 0 8px;
-    margin-bottom: 40px;
-  }
+  /* ---- 頁首 ---- */
+  .profile-header           { padding: 0 4px !important; margin-bottom: 32px !important; }
+  .profile-header h1        { font-size: 26px !important; line-height: 1.3 !important; margin-bottom: 12px !important; }
+  .profile-header .info     { font-size: 15px !important; line-height: 1.6 !important; margin: 6px 0 !important; display: block !important; }
 
-  .profile-header h1 {
-    font-size: 22px;
-    line-height: 1.4;
-    margin-bottom: 16px;
-    font-weight: 600;
-  }
-
-  .profile-header .info {
-    font-size: 14px;
-    line-height: 1.8;
-    margin: 6px 0;
-    display: block;
-  }
-
-  .content {
-    font-size: 15px;
-    line-height: 2;
-    margin-bottom: 48px;
-  }
-
-  .content p {
-    margin-bottom: 22px;
-  }
-
+  /* ---- 內文 ---- */
+  .content                  { font-size: 15px !important; line-height: 1.9 !important; margin-bottom: 40px !important; }
+  .content p                { margin-bottom: 20px !important; }
   .content h2,
-  .project-title {
-    font-size: 18px;
-    margin: 28px 0 14px;
-  }
+  .project-title            { margin: 24px 0 12px !important; }
 
-  .pdf-button {
-    display: block;
-    width: 100%;
-    margin: 20px 0;
-    padding: 14px 0;
-    font-size: 16px;
-    text-align: center;
-    border-radius: 8px;
-  }
+  /* ---- 按鈕 ---- */
+  .pdf-button               { display: block !important; width: 100% !important;
+                              margin: 18px 0 !important; padding: 14px 0 !important;
+                              font-size: 15px !important; }
 }
 </style>
 
