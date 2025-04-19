@@ -88,9 +88,27 @@ layout: false
     padding: 0 12px;
   }
 
+  .profile-header {
+    padding: 0 4px;
+    margin-bottom: 32px;
+  }
+
+  .profile-header h1 {
+    font-size: 26px;
+    line-height: 1.3;
+    margin-bottom: 12px;
+  }
+
+  .profile-header .info {
+    font-size: 15px;
+    line-height: 1.6;
+    margin: 6px 0;
+    display: block;
+  }
+
   .content {
-    font-size: 16px;
-    line-height: 2.0;
+    font-size: 15px;
+    line-height: 1.9;
     margin-bottom: 40px;
   }
 
@@ -106,13 +124,9 @@ layout: false
   .pdf-button {
     display: block;
     width: 100%;
-    margin: 16px 0;
-    padding: 12px 0;
-  }
-
-  .profile-header h1 {
-    font-size: 30px;
-    margin-bottom: 16px;
+    margin: 18px 0;
+    padding: 14px 0;
+    font-size: 15px;
   }
 }
 </style>
