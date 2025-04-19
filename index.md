@@ -67,7 +67,7 @@ layout: false
     <h2>About Me</h2>
     <p>As a FinTech student, I’ve built projects like a pairs trading model, an LSTM + attention forecasting system, and a cryptocurrency (SiuToken). I’ve managed HKD 320,000 in real capital with consistent gains, limiting this year’s drawdown to –3.99 % versus the S&P 500’s –8.25 %.</p>
     <p>I'm good at using open‑source tools and AI to quickly build and test strategies. I review all my code myself and include reports with performance analysis.</p>
-    <p>Instead of doing report work at a large firm, I’m looking for a role—paid or unpaid—where I can be directly involved in strategy development and real‑world application. I'm open to starting unpaid, and if my work adds value, we can discuss compensation or a long‑term role! For me, real experience matters more than pay.</p>
+    <p>I care more about real experience than salary. I'm happy to start unpaid if it means I can learn and contribute to strategy and hands-on work. If you find my work valuable later, we can talk about pay or joining the team!</p>
     <p>All projects are open‑sourced on <a href="https://github.com/siiiiiiiiiii" target="_blank">GitHub</a> and on my <a href="https://siiiiiiiiiii.github.io/siiiiiiiii.github.io/" target="_blank">personal website</a>.</p>
   </div>
 
@@ -88,7 +88,7 @@ layout: false
     <h2>Side Projects</h2>
 
     <h2>1. Self‑Initiated Investment & Portfolio Management</h2>
-    <p>I began investing in my first year, using money‑weighted return (MWR) as my performance metric. I achieved a 9 % return in the first year and improved to 20 % in the second. In the third year, I expanded into both U.S. and Chinese markets, allocating capital to recession‑resistant assets, limiting each stock to 1–5 % of total portfolio value to mitigate macroeconomic volatility. As of April 15, I successfully limited this year’s drawdown to –3.99 %, compared to S&P 500 (–8.25 %), NASDAQ (–12.88 %), and Nikkei (–14.1 %). My portfolio peaked at HKD 320,000, including a six‑figure sum entrusted solely to me by my father — a strong vote of confidence in my asset‑management skills, risk‑control awareness, and sense of fiduciary responsibility.</p>
+    <p>I began investing in my first year, using money‑weighted return (MWR) as my performance metric. I achieved a 9 % return in the first year and improved to 20 % in the second. In the third year, I expanded into both U.S. and Chinese markets, allocating capital to recession‑resistant assets, limiting each stock to 1–5 % of total portfolio value to mitigate macroeconomic volatility. As of April 15, I successfully limited this year’s drawdown to –3.99 %, compared to S&P 500 (–8.25 %), NASDAQ (–12.88 %), and Nikkei (–14.1 %). My portfolio peaked at HKD 320,000, including a six‑figure sum entrusted solely to me by my father.</p>
     <p>I firmly believe that great long‑term investors don’t rely on market predictions — they rely on asset allocation to weather the storm.</p>
     <p><a class="pdf-button" href="https://drive.google.com/file/d/11gKLdVnUSWhS5Hmr_qq_7RQm1dtSxJ-W/view?usp=sharing" target="_blank">📄 View Investment Report</a></p>
   </div>
