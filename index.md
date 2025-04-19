@@ -5,39 +5,69 @@ layout: false
 
 <style>
   body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    margin: 0; padding: 0; background: #fff; color: #222;
+    font-family: Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    color: #222;
   }
+
   .container {
     max-width: 720px;
     margin: 60px auto;
     padding: 0 20px;
   }
+
   .profile-header {
     text-align: center;
     border-bottom: 2px solid #ccc;
     padding-bottom: 20px;
     margin-bottom: 20px;
   }
+
   .profile-header h1 {
     font-size: 36px;
     margin: 0 0 20px;
   }
+
   .profile-header .info {
     font-size: 18px;
     margin: 8px 0;
     line-height: 1.4;
   }
 
-  /* 內容排版 */
-  .content        { font-size: 20px; line-height: 1.8; margin-bottom: 30px; }
-  .content h2     { color: #111; margin-top: 40px; text-align: left; }
-  .project-title  { font-size: 22px; font-weight: bold; color: #111; margin: 20px 0 10px; text-align: left; }
-  .content p      { text-align: justify; }
-  .content ul     { margin-left: 20px; }
-  .content li     { margin-bottom: 5px; }
+  .content {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 30px;
+  }
 
-  /* 按鈕樣式 */
+  .content h2 {
+    color: #111;
+    margin-top: 40px;
+    text-align: left;
+  }
+
+  .project-title {
+    font-size: 22px;
+    font-weight: bold;
+    color: #111;
+    margin: 20px 0 10px;
+    text-align: left;
+  }
+
+  .content p {
+    text-align: left;
+  }
+
+  .content ul {
+    margin-left: 20px;
+  }
+
+  .content li {
+    margin-bottom: 5px;
+  }
+
   .pdf-button {
     display: inline-block;
     padding: 10px 20px;
@@ -48,7 +78,10 @@ layout: false
     font-weight: bold;
     margin-top: 10px;
   }
-  .pdf-button:hover { background: #024fa2; }
+
+  .pdf-button:hover {
+    background: #024fa2;
+  }
 </style>
 
 <nav style="position:sticky;top:0;background:#fff;border-bottom:1px solid #ddd;padding:12px 0;text-align:center;z-index:1000;">
