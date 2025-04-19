@@ -51,6 +51,12 @@ layout: false
   .pdf-button:hover { background: #024fa2; }
 </style>
 
+<nav style="position:sticky;top:0;background:#fff;border-bottom:1px solid #ddd;padding:12px 0;text-align:center;z-index:1000;">
+  <a href="#about" style="margin:0 16px;text-decoration:none;color:#0366d6;font-weight:500;">About</a>
+  <a href="#projects" style="margin:0 16px;text-decoration:none;color:#0366d6;font-weight:500;">Projects</a>
+  <a href="#contact" style="margin:0 16px;text-decoration:none;color:#0366d6;font-weight:500;">Contact</a>
+</nav>
+
 <div class="container">
 
   <!-- 個人資訊 -->
