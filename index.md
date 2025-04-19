@@ -89,9 +89,16 @@ layout: false
   <div class="content">
     <h2>2. Quantitative Trading & Data‑Driven Models</h2>
 
-    <p class="project-title">2.1: Cointegration‑Based Pairs Trading Model</p>
-    <p>Built a cointegration-based pairs trading model using Johansen test, OLS hedge ratio, ATR stop-loss, volatility targeting, and parameter optimization.</p>
-    <p><a class="pdf-button" href="https://drive.google.com/file/d/1ZEI7BnvRLfd9WSh-Igyba2ojisQhTBeQ/view?usp=sharing" target="_blank">📄 View Pairs Trading Report</a></p>
+   <!-- 2.1: Updated Cointegration-Based Pairs Trading Model -->
+      <p class="project-title">2.1: Cointegration‑Based Pairs Trading Model</p>
+      <p>Built a cointegration-based pairs trading model using Johansen test, OLS hedge ratio, ATR stop-loss, volatility targeting, and parameter optimization.</p>
+      <ul>
+        <li>Backtest: 6.27% return, 0.68 Sharpe, –8.67% max drawdown</li>
+        <li>Out-of-sample: 8.64% return, 0.80 Sharpe, no overfitting</li>
+        <li>Lower return than Buy-and-Hold, but far better risk control and market-neutral alpha</li>
+      </ul>
+      <p><a class="pdf-button" href="https://drive.google.com/file/d/1ZEI7BnvRLfd9WSh-Igyba2ojisQhTBeQ/view?usp=sharing" target="_blank">📄 View Pairs Trading Report</a></p>
+
 
     <p class="project-title">2.2: LSTM with Attention for Log‑Return Prediction</p>
     <p>Developed a financial time-series forecasting model using LSTM with an Attention mechanism. It converged stably within 100 epochs, with training and validation losses closely overlapping — no sign of over‑fitting. On the test set, it achieved MAE = 0.0127 and RMSE = 0.0176, significantly outperforming the Naive Baseline (RMSE = 0.0248).</p>
