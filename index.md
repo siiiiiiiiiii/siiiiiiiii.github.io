@@ -3,112 +3,133 @@ title: "About Me"
 layout: false
 ---
 
-<style>
-  body {
-    font-family: Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background: #fff;
-    color: #222;
-  }
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <!-- 这行必须在 head 里 -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  .container {
-    max-width: 720px;
-    margin: 60px auto;
-    padding: 0 20px;
-  }
+  <style>
+    /* ✨ 全部 CSS 都在这里 */
+    body {
+      font-family: Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #fff;
+      color: #222;
+    }
+    .container {
+      max-width: 720px;
+      margin: 60px auto;
+      padding: 0 20px;
+    }
+    .profile-header {
+      text-align: center;
+      border-bottom: 2px solid #ccc;
+      padding-bottom: 20px;
+      margin-bottom: 20px;
+    }
+    .profile-header h1 {
+      font-size: 36px;
+      margin: 0 0 20px;
+    }
+    .profile-header .info {
+      font-size: 18px;
+      margin: 8px 0;
+      line-height: 1.4;
+    }
+    .content {
+      font-size: 18px;
+      line-height: 1.6;
+      margin-bottom: 30px;
+    }
+    .content h2 {
+      color: #111;
+      margin-top: 40px;
+      text-align: left;
+    }
+    .project-title {
+      font-size: 22px;
+      font-weight: bold;
+      color: #111;
+      margin: 20px 0 10px;
+      text-align: left;
+    }
+    .content p {
+      text-align: left;
+    }
+    .content ul {
+      margin-left: 20px;
+    }
+    .content li {
+      margin-bottom: 5px;
+    }
+    .pdf-button {
+      display: inline-block;
+      padding: 10px 20px;
+      background: #0366d6;
+      color: #fff;
+      border-radius: 6px;
+      text-decoration: none;
+      font-weight: bold;
+      margin-top: 10px;
+    }
+    .pdf-button:hover {
+      background: #024fa2;
+    }
 
-  .profile-header {
-    text-align: center;
-    border-bottom: 2px solid #ccc;
-    padding-bottom: 20px;
-    margin-bottom: 20px;
-  }
+    /* —— 手机端强制覆盖 —— */
+    @media (max-width: 768px) {
+      .container {
+        margin: 40px auto !important;
+        padding: 0 12px !important;
+      }
+      .profile-header {
+        padding: 0 4px !important;
+        margin-bottom: 32px !important;
+      }
+      .profile-header h1 {
+        font-size: 26px !important;
+        line-height: 1.3 !important;
+        margin-bottom: 12px !important;
+      }
+      .profile-header .info {
+        font-size: 15px !important;
+        line-height: 1.6 !important;
+        margin: 6px 0 !important;
+        display: block !important;
+      }
+      .content {
+        font-size: 15px !important;
+        line-height: 1.9 !important;
+        margin-bottom: 40px !important;
+      }
+      .content p {
+        margin-bottom: 20px !important;
+      }
+      .content h2,
+      .project-title {
+        margin: 24px 0 12px !important;
+      }
+      .pdf-button {
+        display: block !important;
+        width: 100% !important;
+        margin: 18px 0 !important;
+        padding: 14px 0 !important;
+        font-size: 15px !important;
+      }
+    }
+  </style>
+</head>
 
-  .profile-header h1 {
-    font-size: 36px;
-    margin: 0 0 20px;
-  }
+<body>
+  <nav style="position:sticky;top:0;background:#fff;border-bottom:1px solid #ddd;padding:12px 0;text-align:center;z-index:1000;">
+    <a href="#about" style="margin:0 16px;text-decoration:none;color:#0366d6;font-weight:500;">About</a>
+    <a href="#projects" style="margin:0 16px;text-decoration:none;color:#0366d6;font-weight:500;">Projects</a>
+  </nav>
 
-  .profile-header .info {
-    font-size: 18px;
-    margin: 8px 0;
-    line-height: 1.4;
-  }
-
-  .content {
-    font-size: 18px;
-    line-height: 1.6;
-    margin-bottom: 30px;
-  }
-
-  .content h2 {
-    color: #111;
-    margin-top: 40px;
-    text-align: left;
-  }
-
-  .project-title {
-    font-size: 22px;
-    font-weight: bold;
-    color: #111;
-    margin: 20px 0 10px;
-    text-align: left;
-  }
-
-  .content p {
-    text-align: left;
-  }
-
-  .content ul {
-    margin-left: 20px;
-  }
-
-  .content li {
-    margin-bottom: 5px;
-  }
-
-  .pdf-button {
-    display: inline-block;
-    padding: 10px 20px;
-    background: #0366d6;
-    color: #fff;
-    border-radius: 6px;
-    text-decoration: none;
-    font-weight: bold;
-    margin-top: 10px;
-  }
-
-  .pdf-button:hover {
-    background: #024fa2;
-  }
-  @media (max-width: 768px) {
-  .container       { margin: 40px auto !important; padding: 0 12px !important; }
-
-  /* ---- 頁首 ---- */
-  .profile-header           { padding: 0 4px !important; margin-bottom: 32px !important; }
-  .profile-header h1        { font-size: 26px !important; line-height: 1.3 !important; margin-bottom: 12px !important; }
-  .profile-header .info     { font-size: 15px !important; line-height: 1.6 !important; margin: 6px 0 !important; display: block !important; }
-
-  /* ---- 內文 ---- */
-  .content                  { font-size: 15px !important; line-height: 1.9 !important; margin-bottom: 40px !important; }
-  .content p                { margin-bottom: 20px !important; }
-  .content h2,
-  .project-title            { margin: 24px 0 12px !important; }
-
-  /* ---- 按鈕 ---- */
-  .pdf-button               { display: block !important; width: 100% !important;
-                              margin: 18px 0 !important; padding: 14px 0 !important;
-                              font-size: 15px !important; }
-}
-</style>
-
-<nav style="position:sticky;top:0;background:#fff;border-bottom:1px solid #ddd;padding:12px 0;text-align:center;z-index:1000;">
-  <a href="#about" style="margin:0 16px;text-decoration:none;color:#0366d6;font-weight:500;">About</a>
-  <a href="#projects" style="margin:0 16px;text-decoration:none;color:#0366d6;font-weight:500;">Projects</a>
-</nav>
-
-<div class="container">
+  <div class="container">
 
   <!-- 個人資訊 -->
   <div class="profile-header">
@@ -213,4 +234,5 @@ layout: false
 <footer style="text-align:center; font-size:12px; color:#777; margin-top:40px;">
   © 2025 Siu King Sum. | Contact: Kingstonsiu20040801@gmail.com
 </footer>
-
+</body>
+</html>
