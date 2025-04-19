@@ -85,48 +85,52 @@ layout: false
   @media (max-width: 768px) {
   .container {
     margin: 40px auto;
-    padding: 0 12px;
+    padding: 0 16px;
   }
 
   .profile-header {
-    padding: 0 4px;
-    margin-bottom: 32px;
+    padding: 0 8px;
+    margin-bottom: 40px;
   }
 
   .profile-header h1 {
-    font-size: 26px;
-    line-height: 1.3;
-    margin-bottom: 12px;
+    font-size: 22px;
+    line-height: 1.4;
+    margin-bottom: 16px;
+    font-weight: 600;
   }
 
   .profile-header .info {
-    font-size: 15px;
-    line-height: 1.6;
+    font-size: 14px;
+    line-height: 1.8;
     margin: 6px 0;
     display: block;
   }
 
   .content {
     font-size: 15px;
-    line-height: 1.9;
-    margin-bottom: 40px;
+    line-height: 2;
+    margin-bottom: 48px;
   }
 
   .content p {
-    margin-bottom: 20px;
+    margin-bottom: 22px;
   }
 
   .content h2,
   .project-title {
-    margin: 24px 0 12px;
+    font-size: 18px;
+    margin: 28px 0 14px;
   }
 
   .pdf-button {
     display: block;
     width: 100%;
-    margin: 18px 0;
+    margin: 20px 0;
     padding: 14px 0;
-    font-size: 15px;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 8px;
   }
 }
 </style>
